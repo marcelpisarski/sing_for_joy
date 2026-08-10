@@ -101,24 +101,6 @@ class _SplashScreenState extends State<SplashScreen> {
                 width: 120,
               ),
             ),
-            
-            // Custom Branding Text positioned fixed at the screen bottom
-            Align(
-              alignment: Alignment.bottomCenter,
-              child: Padding(
-                padding: const EdgeInsets.only(bottom: 50.0, left: 16.0, right: 16.0),
-                child: const Text(
-                  "Built by Marcel Pisarski for Bridgwater Bibleway Believers",
-                  textAlign: TextAlign.center,
-                  style: TextStyle(
-                    color: Colors.white70, 
-                    fontSize: 12,
-                    fontWeight: FontWeight.w400,
-                    letterSpacing: 0.5,
-                  ),
-                ),
-              ),
-            ),
           ],
         ),
       ),
@@ -778,6 +760,18 @@ class _LyricsPageState extends State<LyricsPage> {
                     ),
                   ),
                   const SizedBox(height: 12),
+                  const Center(
+                    child: Text(
+                      "Sing For Joy v1.0.0\nSupport: marcelpisarskidev@gmail.com",
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        fontSize: 12,
+                        color: Colors.white38,
+                        height: 1.4,
+                      ),
+                    ),
+                  ),
+                  const SizedBox(height: 8),
                 ],
               ),
             );
