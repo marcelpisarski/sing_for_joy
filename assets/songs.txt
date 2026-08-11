@@ -1469,7 +1469,7 @@ title_en: He's Able
 title_pl: On Może
 key: F
 lyrics_en:
-1: [:He's able, He's able, I know my Lord is able. I know my Lord is able to carry me through:] He heals the brokenhearted and sets the captive free; He makes the lame to walk again and causes the blind to see. He's able, He's able, I know my Lord is able, I know my Lord is able to carry me through.
+1: [:He's able, He's able, I know my Lord is able. I know my Lord is able to carry me through:]. He heals the brokenhearted and sets the captive free; He makes the lame to walk again and causes the blind to see. He's able, He's able, I know my Lord is able, I know my Lord is able to carry me through.
 lyrics_pl:
 1: [:On może, On może, ja wiem, że On może, ja wiem, że Jezus może dopomóc i mnie:]. On leczył chore serca, utwierdzał chromych krok, On karmił głodnych, leczył trąd, przywracał ślepym wzrok. On może, On może, ja wiem, że On może, ja wiem, że Jezus może dopomóc i mnie.
 
@@ -2044,7 +2044,7 @@ lyrics_pl:
 ---
 
 id: 115
-title_en: Alas, And Did My Saviour Bleed
+title_en: Alas And Did My Saviour Bleed
 title_pl: Niegdyś W Grzechach Jam Żył
 key: E
 lyrics_en:
@@ -2139,7 +2139,7 @@ lyrics_en:
 
 4: [:Healing is mine:], I know that healing is mine. I told Satan to get behind me, I know that healing is mine.
 
-5: [:Word is mine:], I know the word is mine. I told Satan to get behind me, I know the word is mine.
+5: [:Word is mine:], I know the Word is mine. I told Satan to get behind me, I know the Word is mine.
 
 6: [:Salvation is mine:], I know salvation is mine. I told Satan to get behind me, I know salvation is mine.
 lyrics_pl:
@@ -3192,7 +3192,7 @@ key: G
 lyrics_en:
 1: Jesus is my Saviour, I shall not be moved; in His love and favour, I shall not be moved; just like a tree that's planted by the waters, I shall not be moved.
 
-Chor.: [:I shall not be, I shall not be moved:] just like a tree that's planted by the waters, I shall not be moved.
+Chor.: [:I shall not be, I shall not be moved:], just like a tree that's planted by the waters, I shall not be moved.
 
 2: If I trust Him ever, I shall not be moved; He will fail me never, I shall not be moved; just like a tree that's planted by the waters, I shall not be moved.
 
@@ -4956,6 +4956,8 @@ Ref.: Chwal Pana, duszo ma, stale, i Imię Jezus wspaniałe. Nie zapomnij o tym 
 2: W niedoli dla mnie pociechę miał, z serca wziął smutek i radość dał. Jego chcę chwalić wciąż, hymnem i pieśnią mą, z serca na wieki Mu śpiewać.
 
 3: Niebo i ziemio połączcie się, poddajcie Słowu, Pan zbliża się. Jego chcę chwalić wciąż, hymnem i pieśnią mą, z serca na wieki Mu śpiewać.
+
+4: A dzisiaj zstąpił po własność Swą, którą odkupił najświętszą Krwią. Więc w ten poranek, gdy sięgnę Bram Nieba, to wtedy pieśń chwały zaśpiewam.
 
 ---
 
@@ -7962,7 +7964,7 @@ title_en: Isn't God Good
 title_pl: Czy Bóg Nie Jest Dobry
 key: G
 lyrics_en:
-Isn't God good, to give us so many blessings. Underserving, that's what we are. We ought to thank Him, love and praise Him, a little more today, and a whole lot more tomorrow.
+1: Isn't God good, to give us so many blessings. Underserving, that's what we are. We ought to thank Him, love and praise Him, a little more today, and a whole lot more tomorrow.
 lyrics_pl:
 (W tekście brak polskiego tekstu)
 
@@ -9147,7 +9149,7 @@ title_en: Oh What A Joy
 title_pl: O Co Za Radość
 key: F
 lyrics_en:
-1: [:Oh what a joy:] Living water floweth through my soul today. [:Oh what a joy:] [:In the Lamb's Book, my name has been written:], In the Lamb's Book, my name has been written. Hallelujah! hallelujah!
+1: [:Oh what a joy:] Living water floweth through my soul today. [:Oh what a joy:] [:In the Lamb's Book, my name has been written:], In the Lamb's Book, my name has been written. Hallelujah! Hallelujah!
 lyrics_pl:
 1: [:O, co za radość!:] Żywa Woda płynie dziś przez duszę mą. [:O, co za radość:] [:Imię moje jest w Księdze Baranka:], Imię moje jest w Księdze Baranka. Alleluja! Alleluja!
 
