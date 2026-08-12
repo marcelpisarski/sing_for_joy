@@ -4,6 +4,8 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 void main() {
   // Entry point of the Dart application. Establishes the widget tree.
+  WidgetsFlutterBinding.ensureInitialized();
+
   runApp(const SongbookApp());
 }
 
