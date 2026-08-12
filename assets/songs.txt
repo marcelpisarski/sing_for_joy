@@ -7558,11 +7558,19 @@ lyrics_pl:
 id: 439
 title_en: We Are The Chosen Generation
 title_pl: Jesteśmy Pokoleniem
-key: E
+key: D
 lyrics_en:
-1: We are the generation, we are the culmination, a final voice the world will hear. The coming of the Lord is here, living out the Revelation, overcoming sin's temptation, the Truth will go to every tongue and nation, we are the chosen generation.
+1: We're living in the evening time. The race is almost through. But God has chosen you and me- there's still a job to do. The Word that's been revealed to us must be prophesised again. And the Message must reach everywhere 'til that last soul has come in.
+
+Chor.: We are the generation, we are the culmination, a final voice the world will hear. The coming of the Lord is here, living out the Revelation, overcoming sin's temptation, the Truth will go to every tongue and nation, we are the chosen generation.
+
+2: Committed to the calling, together we stand strong. Lifting up our voice as one we, we sing the final song. Oh, God has chosen us to conquer every test we face. And He has seen us through this far. And we'll finish by His grace.
 lyrics_pl:
-1: Jesteśmy pokoleniem, wchodzącym w Zachwycenie, ostatnim głosem, który brzmi, Pan wkrótce zamknie łaski drzwi. Przez Słowa objawienie zwyciężamy grzech, zwątpienie. Głos Boży dziś okrąża całą ziemię, ostatnie tutaj pokolenie.
+1: Żyjemy w czasie końca tu. Już meta blisko tak. Lecz Bóg wciąż działać przez nas chce i On pracę dla nas ma. Słowo, które nam objawił Pan, prorokować mamy znów, by ostatnia dusza mogła wejść. A ten czas jest już tuż-tuż.
+
+Ref.: Jesteśmy pokoleniem wchodzącym w zachwycenie, ostatnim głosem, który brzmi: „Bóg wkrótce zamknie łaski drzwi”. Przez Słowa objawienie zwyciężamy grzech, zwątpienie. Duch Boży dziś okrąża całą ziemię. Ostatnie tutaj pokolenie. 
+
+2: Złączeni przez Poselstwa moc, w jedności chcemy być, w Kompozytora Duchu trwać, Słowo głosić i nim żyć. Bóg powierzył wielkie dzieło nam i zaufał, wiedząc, że z Jego łaski, mimo trudnych dni, zdamy ten końcowy test.
 
 ---
 
