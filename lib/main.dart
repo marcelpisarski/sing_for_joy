@@ -75,7 +75,7 @@ class _SplashScreenState extends State<SplashScreen> {
   void initState() {
     super.initState();
     
-    // Create a 1-second delay simulating background asset preparation before navigating
+    // Create a 1-second delay before navigating to the main layout
     Future.delayed(const Duration(seconds: 1), () {
       // 'mounted' checks if the widget is still in the view tree before triggering navigation
       if (mounted) {
@@ -96,11 +96,15 @@ class _SplashScreenState extends State<SplashScreen> {
       body: SafeArea(
         child: Stack(
           children: [
-            // Centered App Logo Image Asset
+            // Centered App Logo Image Asset with safety fallback
             Center(
               child: Image.asset(
                 'assets/SingForJoy.png',
                 width: 120,
+                errorBuilder: (context, error, stackTrace) {
+                  // Fallback icon to prevent app crash if image asset fails to decode
+                  return const Icon(Icons.music_note, size: 80, color: Colors.white);
+                },
               ),
             ),
           ],
@@ -154,17 +158,23 @@ class _MainLayoutState extends State<MainLayout> {
 
   /// Generic, type-safe persistence utility handling basic value writes to local device disk.
   Future<void> _updatePreference<T>(String key, T value) async {
-    final SharedPreferences prefs = await SharedPreferences.getInstance();
-    if (value is bool) await prefs.setBool(key, value);
-    if (value is double) await prefs.setDouble(key, value);
-    if (value is int) await prefs.setInt(key, value);
-    if (value is List<String>) await prefs.setStringList(key, value);
+    try {
+      final SharedPreferences prefs = await SharedPreferences.getInstance();
+      if (value is bool) await prefs.setBool(key, value);
+      else if (value is double) await prefs.setDouble(key, value);
+      else if (value is int) await prefs.setInt(key, value);
+      else if (value is List<String>) await prefs.setStringList(key, value);
+    } catch (e) {
+      debugPrint("Error updating persistent preference '$key': $e");
+    }
   }
 
   /// Hydrates the current session state from configurations stored in persistent memory.
   Future<void> loadSavedSettings() async {
     try {
       final SharedPreferences prefs = await SharedPreferences.getInstance();
+      if (!mounted) return;
+      
       setState(() {
         bookmarkedIds = prefs.getStringList(AppPrefs.bookmarks) ?? [];
         globalFontSize = prefs.getDouble(AppPrefs.fontSize) ?? 18.0;
@@ -208,7 +218,8 @@ class _MainLayoutState extends State<MainLayout> {
           'lyrics_pl': ''
         };
 
-        List<String> lines = block.split('\n');
+        // Split lines handling both Windows (\r\n) and Unix (\n) line endings safely
+        List<String> lines = block.split(RegExp(r'\r?\n'));
         String currentKey = '';
         StringBuffer lyricsBuffer = StringBuffer(); // Efficient mutable string accumulator
         bool capturingLyrics = false;
@@ -259,7 +270,9 @@ class _MainLayoutState extends State<MainLayout> {
       }
 
       // Update widget tree state with parsed object results
-      setState(() => songs = parsedSongs);
+      if (mounted) {
+        setState(() => songs = parsedSongs);
+      }
     } catch (e) {
       debugPrint("Error loading or parsing songs file: $e");
     }
@@ -386,7 +399,7 @@ class _MainLayoutState extends State<MainLayout> {
       ),
     );
     // Explicit refresh ensuring layout list nodes properly mirror updates changed inside child routes
-    setState(() {}); 
+    if (mounted) setState(() {}); 
   }
 
   @override
@@ -402,7 +415,7 @@ class _MainLayoutState extends State<MainLayout> {
       return song.values.any((value) => value.toLowerCase().contains(query));
     }).toList();
 
-    // Pipeline Filtering Stage 3: Apply active ordering comparator algorithms
+    // Pipeline Filtering Stage 3: Apply active ordering comparator algorithms safely
     displayedSongs.sort((a, b) {
       final int idA = int.tryParse(a['id'] ?? '0') ?? 0;
       final int idB = int.tryParse(b['id'] ?? '0') ?? 0;
@@ -719,8 +732,6 @@ class _LyricsPageState extends State<LyricsPage> {
         borderRadius: BorderRadius.vertical(top: Radius.circular(20)),
       ),
       builder: (context) {
-        // StatefulBuilder allows the slider to smoothly repaint itself within the modal 
-        // while simultaneously pushing the structural text updates back to the parent page view tree
         return StatefulBuilder(
           builder: (BuildContext context, StateSetter setModalState) {
             return Padding(
