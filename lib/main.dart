@@ -42,6 +42,21 @@ class SongbookApp extends StatelessWidget {
         brightness: Brightness.dark,
         scaffoldBackgroundColor: AppColors.background,
         
+        // Custom scrollbar theme forcing Android to match the clean iOS look in both static and scroll states
+        scrollbarTheme: ScrollbarThemeData(
+          thumbVisibility: WidgetStateProperty.all(true),
+          trackVisibility: WidgetStateProperty.all(false), // Prevents Android's dark idle track box
+          thickness: WidgetStateProperty.all(3.5),         // Sleek, clean scrollbar width
+          radius: const Radius.circular(8),
+          
+          // Ensures track background stays completely transparent
+          trackColor: WidgetStateProperty.all(Colors.transparent),
+          trackBorderColor: WidgetStateProperty.all(Colors.transparent),
+          
+          // Semi-transparent white scrollbar thumb matching iOS screenshot styling
+          thumbColor: WidgetStateProperty.all(Colors.white.withValues(alpha: 0.45)),
+        ),
+
         // Remove default material splash overlays to make list taps feel snappy and instant
         splashColor: Colors.transparent,
         highlightColor: Colors.transparent,
