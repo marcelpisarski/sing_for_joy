@@ -525,6 +525,7 @@ class _MainLayoutState extends State<MainLayout> {
                       : Scrollbar(
                           controller: _listScrollController,
                           thumbVisibility: true, // Always show the scroll track indicator line
+                          interactive: true,    // Enables direct drag interaction on Android touchscreens
                           trackVisibility: false,
                           child: ListView.builder(
                             controller: _listScrollController,
@@ -743,13 +744,23 @@ class _LyricsPageState extends State<LyricsPage> {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      Text(
-                        widget.preferredLanguageEnglish ? "Text Size Options" : "Opcje rozmiaru tekstu",
-                        style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white),
+                      Expanded(
+                        child: Text(
+                          widget.preferredLanguageEnglish ? "Text Size Options" : "Opcje rozmiaru tekstu",
+                          style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white),
+                        ),
                       ),
-                      Text(
-                        "${_fontSize.toInt()} px",
-                        style: const TextStyle(fontSize: 14, color: AppColors.primary, fontWeight: FontWeight.bold),
+                      const SizedBox(width: 12),
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+                        decoration: BoxDecoration(
+                          color: AppColors.primary.withValues(alpha: 0.2),
+                          borderRadius: BorderRadius.circular(6),
+                        ),
+                        child: Text(
+                          "${_fontSize.toInt()} px",
+                          style: const TextStyle(fontSize: 14, color: AppColors.primary, fontWeight: FontWeight.bold),
+                        ),
                       ),
                     ],
                   ),
@@ -859,6 +870,7 @@ class _LyricsPageState extends State<LyricsPage> {
         child: Scrollbar(
           controller: _lyricsScrollController,
           thumbVisibility: true,
+          interactive: true, // Enables direct drag interaction on Android touchscreens
           trackVisibility: false,
           child: SingleChildScrollView(
             controller: _lyricsScrollController,
