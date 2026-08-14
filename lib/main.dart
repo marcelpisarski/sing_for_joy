@@ -750,68 +750,58 @@ class _LyricsPageState extends State<LyricsPage> {
       builder: (context) {
         return StatefulBuilder(
           builder: (BuildContext context, StateSetter setModalState) {
-            return Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 24.0, vertical: 20.0),
-              child: Column(
-                mainAxisSize: MainAxisSize.min,
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [
-                      Expanded(
-                        child: Text(
-                          widget.preferredLanguageEnglish ? "Text Size Options" : "Opcje rozmiaru tekstu",
-                          style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white),
+            return SafeArea(
+              child: Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 24.0, vertical: 20.0),
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        Expanded(
+                          child: Text(
+                            widget.preferredLanguageEnglish ? "Text Size Options" : "Opcje rozmiaru tekstu",
+                            style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white),
+                          ),
                         ),
-                      ),
-                      const SizedBox(width: 12),
-                      Container(
-                        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
-                        decoration: BoxDecoration(
-                          color: AppColors.primary.withValues(alpha: 0.2),
-                          borderRadius: BorderRadius.circular(6),
-                        ),
-                        child: Text(
-                          "${_fontSize.toInt()} px",
-                          style: const TextStyle(fontSize: 14, color: AppColors.primary, fontWeight: FontWeight.bold),
-                        ),
-                      ),
-                    ],
-                  ),
-                  const SizedBox(height: 16),
-                  SliderTheme(
-                    data: SliderTheme.of(context).copyWith(
-                      activeTrackColor: AppColors.primary,
-                      inactiveTrackColor: Colors.white10,
-                      thumbColor: Colors.white,
-                      overlayColor: AppColors.primary.withValues(alpha: 0.2),
+                      ],
                     ),
-                    child: Slider(
-                      min: 14.0,
-                      max: 30.0,
-                      value: _fontSize,
-                      onChanged: (newValue) {
-                        setModalState(() => _fontSize = newValue); // Re-render modal slider node
-                        setState(() {});                           // Re-render lyrics text background node
-                        widget.onFontSizeChanged(newValue);        // Bubble preference change event upwards
-                      },
-                    ),
-                  ),
-                  const SizedBox(height: 12),
-                  const Center(
-                    child: Text(
-                      "Sing For Joy v1.0.0\nSupport: marcelpisarskidev@gmail.com",
-                      textAlign: TextAlign.center,
-                      style: TextStyle(
-                        fontSize: 12,
-                        color: Colors.white38,
-                        height: 1.4,
+                    const SizedBox(height: 16),
+                    SliderTheme(
+                      data: SliderTheme.of(context).copyWith(
+                        activeTrackColor: AppColors.primary,
+                        inactiveTrackColor: Colors.white10,
+                        thumbColor: Colors.white,
+                        overlayColor: AppColors.primary.withValues(alpha: 0.2),
+                      ),
+                      child: Slider(
+                        min: 14.0,
+                        max: 30.0,
+                        value: _fontSize,
+                        onChanged: (newValue) {
+                          setModalState(() => _fontSize = newValue); // Re-render modal slider node
+                          setState(() {});                           // Re-render lyrics text background node
+                          widget.onFontSizeChanged(newValue);        // Bubble preference change event upwards
+                        },
                       ),
                     ),
-                  ),
-                  const SizedBox(height: 8),
-                ],
+                    const SizedBox(height: 12),
+                    const Center(
+                      child: Text(
+                        "Sing For Joy v1.0.0\nSupport: marcelpisarskidev@gmail.com",
+                        textAlign: TextAlign.center,
+                        style: TextStyle(
+                          fontSize: 12,
+                          color: Colors.white38,
+                          height: 1.4,
+                        ),
+                      ),
+                    ),
+                    const SizedBox(height: 8),
+                  ],
+                ),
               ),
             );
           },
