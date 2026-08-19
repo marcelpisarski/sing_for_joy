@@ -112,10 +112,12 @@ title_pl: By Być Jak Jezus
 key: E
 lyrics_en:
 1: To be like Jesus, to be like Jesus, on earth I long to be like Him; all through life's journey from earth to glory I only ask to be like Him.
+
+2: To be Your Word, Lord. To be Your Word, Lord. All I ask is to be Your Word. All through life's trials from Glory to Glory, all I ask is to be Your Word.
 lyrics_pl:
 1: By być jak Jezus, by być jak Jezus, tego pragnę, by być jak On. Przez życia troski, z ziemi do chwały, tego pragnę, być tak jak On.
 
-2: [:By być tu Słowem:], tego pragnę – być Słowem Twym. Przez doświadczenia, z Chwały do Chwały, tego pragnę – być Słowem tu.
+2: By być tu Słowem, by być tu Słowem, tego pragnę – być Słowem Twym. Przez doświadczenia, z Chwały do Chwały, tego pragnę – być Słowem tu.
 ---
 
 id: 6
@@ -1121,7 +1123,15 @@ title_en: Jesus Healed The Blind Man
 title_pl: Jezus Uzdrowił
 key: E
 lyrics_en:
-(No English lyrics given in text)
+1: He healed the blind man, walked on the waters. And He raised up Jairius' daughter. He fed the hungry, cleansed the leper. But we need Jesus now more than ever.
+
+Chor.: Jesus now more than ever we are sailing in stormy weather. All His children should get together for we need Jesus now more than ever.
+
+2: He touched the lame man and he started walking. He touched the dumb man and he started talking. He put their lives all back together. But we need Jesus now more than ever.
+
+3: He calmed the storm in Colorado mountains. He spoke the squirrels into existence. The never changing God, He’s still the same today. And He came down to take us Home, to Heaven.
+
+Chor. 2: Jesus now more than ever all Your children are called back Home. Reveal your Word more and more for we need Jesus now more than ever.
 lyrics_pl:
 1: Jezus uzdrowił ślepego męża. Wzbudził z martwych córkę Jaira. Nakarmił głodnych, posilił słabych. Lecz teraz więcej potrzebujemy Jego.
 
@@ -1483,10 +1493,18 @@ lyrics_en:
 1: Give me oil in my lamp, keep me burning; give me oil in my lamp, I pray. Give me oil in my lamp, keep me burning, keep me burning 'til the break of day.
 
 Chor.: Sing Hosanna! Sing Hosanna! Sing Hosanna to the King of Kings! Sing Hosannah! Sing Hosannah! Sing Hosannah to the King!
+
+2: Fill my heart with Your Fire, keep me zealous. Fill my heart with Your Fire, I pray. Fill my heart with Your Fire, keep me zealous. Keep me zealous ‘til the break of the day.
+
+3: Give me joy in my heart, I will praise You. Give me joy in my heart, I pray. Give me joy in my heart, I will praise You. I will praise You ‘til the break of the day.
 lyrics_pl:
 1: Daj oleju lampie mej, niechaj płonę, daj oleju lampie mej, proszę Cię. Daj oleju lampie mej, niechaj płonę, niech nie zgasnę, aż się skończy ten dzień.
 
 Ref.: [:Śpiewaj Hosanna:], śpiewaj Panu, który Królem jest. [:Śpiewaj Hosanna:], śpiewaj Panu cały dzień.
+
+2: Wiary żar sercu daj, niechaj płonie. Wiary żar sercu daj w każdy dzień. Wiary żar sercu daj, niechaj płonie. Niechaj płonie, aż zabierzesz mnie.
+
+3: Radość tchnij w serce me, bym Cię chwalił. Radość tchnij, proszę, w serce me. Radość tchnij w serce me, bym Cię chwalił. Bym Cię chwalił, że zabierzesz mnie.
 
 ---
 
@@ -1648,7 +1666,9 @@ title_en: This Is The Day
 title_pl: Dzisiaj Jest Dzień
 key: E
 lyrics_en:
-1: This is the day, this is the day that the Lord hath made, that the Lord hath made. We will rejoice, we will rejoice and be glad in it, and be glad in it. This is the day that the Lord hath made. We will rejoice and be glad in it, this is the day, this is the day that the Lord hath made.
+1: [:This is the day:], [:that the Lord hath made:]. [:We will rejoice:] [:and be glad in it:]. This is the day that the Lord hath made. We will rejoice and be glad in it. [:This is the day:], that the Lord hath made.
+
+2: [:This is the day:], [:when the Lord came down.:]. [:We will rejoice:] [:and be glad in it.:]. This is the day when the Lord came down. We will rejoice and be glad in it. [:This is the day:], when the Lord came down.
 lyrics_pl:
 1: [:Dzisiaj jest dzień:], [:który dał  nam Pan:]. [:Weselmy się:] [:i radujmy się nim:]. Dzisiaj jest dzień, który dał nam Pan. Weselmy się i radujmy się nim. [:Dzisiaj jest dzień:], który dał nam Pan.
 
@@ -2139,7 +2159,7 @@ lyrics_en:
 
 4: [:Healing is mine:], I know that healing is mine. I told Satan to get behind me, I know that healing is mine.
 
-5: [:Word is mine:], I know the Word is mine. I told Satan to get behind me, I know the Word is mine.
+5: [:The Word is mine:], I know the Word is mine. I told Satan to get behind me, I know the Word is mine.
 
 6: [:Salvation is mine:], I know salvation is mine. I told Satan to get behind me, I know salvation is mine.
 lyrics_pl:
@@ -2226,8 +2246,12 @@ title_pl: Radujcie Się
 key: E
 lyrics_en:
 1: [:Rejoice in the Lord always, and again I say rejoice:], [:Rejoice, rejoice, and again I say rejoice:]
+
+2: [:Rejoice in the Word always, and again I say rejoice:], [:Rejoice, rejoice, and again I say rejoice:]
 lyrics_pl:
 1: [:Radujcie się w Panu zawsze, mówię wam, radujcie się:]. [:Radujcie się, mówię wam, radujcie się:]
+
+2: [:Radujcie się w Słowie zawsze, mówię wam, radujcie się:]. [:Radujcie się, mówię wam, radujcie się:]
 
 ---
 
@@ -2726,10 +2750,18 @@ lyrics_en:
 Chor.: Swing low, sweet chariot, coming for to carry me home; swing low, sweet chariot, coming for to carry me home.
 
 1: I looked over Jordan and what did I see, coming for to carry me home; a band of angels coming after me, coming for to carry me home.
+
+2: If you get there before I do, coming for to carry me Home, tell all my friends I’m a-coming too, coming for to carry me Home.
+
+3: I looked over Sunset and what did I see, coming for to carry me Home. A band of seven angels coming after me, coming for to carry me Home.
 lyrics_pl:
 Ref.: Zniż się, powozie mój! Jedziesz, aby zabrać mnie stąd. Zniż się, powozie mój! Jedziesz, aby zabrać mnie stąd.
 
 1: Spojrzałem nad Jordan i widzę hen, tam, idą, aby zabrać mnie stąd. Anieli w bieli u niebieskich bram idą, aby zabrać mnie stąd.
+
+2: Gdy przyjdziesz tam, zanim dojdę ja, idą, aby zabrać mnie stąd, powiedz wszystkim moim bliskim, że dojdę tam i ja; idą, aby zabrać mnie stąd.
+
+3: Nad górą Sunset ujrzałem raz, idą, aby zabrać mnie stąd, aniołów siedmiu zstąpiło wraz; przyszli, aby zabrać mnie stąd.
 
 ---
 
@@ -3102,7 +3134,7 @@ lyrics_en:
 
 2: Full of praise, full of power, full of glory, full of praise, full of power, full of glory, full of praise, full of power, full of glory, I am a temple of the Holy Ghost.
 
-3: Know ye not, know ye not, ye are a temple, know ye not, know ye not, ye are a temple, know ye not, know ye not, ye are a temple, ye are a temple of the Holy Ghost.
+3: Know ye not, know ye not, ye are a temple, know ye not, know ye not, ye are a temple, know ye not, know ye not, ye are a temple, where Christ decided to place His Throne?
 
 4: Yes I know, yes I know I am a temple, yes I know, yes I know I am a temple, yes I know, yes I know I am a temple, I am a temple of the Holy Ghost.
 lyrics_pl:
@@ -3225,7 +3257,7 @@ Chor.: Yes, I feel like traveling on, I feel like traveling on; my heavenly home
 lyrics_pl:
 1: Mój niebiański dom jasnością lśni; pragnę pielgrzymować z Nim. Tam ból i śmierć nie grożą mi; pragnę pielgrzymować z Nim.
 
-Ref.: [:Pragnę pielgrzymować z Nim.]. Mój niebiański dom jasnością lśni; pragnę pielgrzymować z Nim.
+Ref.: [:Pragnę pielgrzymować z Nim:]. Mój niebiański dom jasnością lśni; pragnę pielgrzymować z Nim.
 
 2: Ulice tam ze złota są, pragnę pielgrzymować z Nim. Niebiański dom własnością mą; pragnę pielgrzymować z Nim.
 
@@ -3304,10 +3336,18 @@ lyrics_en:
 1: [:Everybody ought to know, everybody ought to know, everybody ought to know who Jesus is.:]
 
 2: He's the Lily of the Valley, He's the bright and morning star, He's the fairest of ten thousand. Everybody ought to know.
+
+3: [:Everybody ought to know, everybody ought to know, everybody ought to know who Jesus is.:]
+
+4: He’s the Word of the hour, He’s the Bridegroom for His Bride, He’s the King of Jerusalem shining on us from above.
 lyrics_pl:
 1: [:Każdy wiedzieć musi to, każdy wiedzieć musi to, każdy wiedzieć musi to: Kim Jezus jest:].
 
 2: On Lilią jest z doliny, On Poranną Gwiazdą sam, On Zbawiciel nasz jedyny. Każdy wiedzieć musi to.
+
+3: [:Każdy wiedzieć musi to, każdy wiedzieć musi to, każdy wiedzieć musi to: Kim Jezus jest.:]
+
+4: On jest Słowem tej godziny, Oblubieńcem naszym też, Królem tej Jerozolimy, która Wiecznym Miastem jest.
 
 ---
 
@@ -4066,6 +4106,8 @@ title_pl: Rozciągnij Swe Skrzydła
 key: D
 lyrics_en:
 1: So spread your wings, little eagle, and fly. You weren't born for the valley, you were born to soar in the sky. So don't let your trials get you down, and drive your spirit to the ground, mount up with wings, little eagle, and fly.
+
+2: So spread your wings, little eagle, and fly. Come up higher, Christ your Maker wants to fellowship with you on high. The wings of faith will lift you higher into Glory you will rise. Mount up with wings, little eagle, and fly.
 lyrics_pl:
 1: Rozciągnij swe skrzydła, mały orle, i leć. Tu w dolinie nie twe miejsce, lecz w przestworza masz wzbijać się. Gdy wróg przysłoni ci  słońca blask, wiedz, że dwoje skrzydeł masz. Rozciągnij swe skrzydła, mały orle, i leć.
 
@@ -4106,7 +4148,7 @@ lyrics_pl:
 ---
 
 id: 235
-title_en: Thank You, Lord
+title_en: Thank You Lord
 title_pl: Panie Dziękuję Ci
 key: D
 lyrics_en:
@@ -4119,11 +4161,13 @@ lyrics_pl:
 ---
 
 id: 236
-title_en: Lord, Prepare Me 
+title_en: Lord Prepare Me 
 title_pl: Chcę Być Świątynią
 key: E
 lyrics_en:
 1: Lord, prepare me to be a sanctuary, pure and holy, tried and true; with thanksgiving, I'll be a living sanctuary for You.
+
+2: Lord, I found my place in Your temple. There behind the Veil my desire's to stay. At Your throne of Grace, in Your presence, that's the one place, my heart finds rest.
 lyrics_pl:
 1: Chcę być świątynią Twoją, Panie, poświęconym, czystym, świętym. Pełnym chwały i wdzięczności, wypełnionym przez Ciebie być chcę.
 
@@ -4462,7 +4506,7 @@ lyrics_pl:
 ---
 
 id: 261
-title_en: My Life Is In You, Lord
+title_en: My Life Is In You Lord
 title_pl: On Jest Moim życiem
 key: G
 lyrics_en:
@@ -4937,8 +4981,12 @@ title_pl: Pozwól Iść Z Tobą
 key: E
 lyrics_en:
 1: Let me walk with You Jesus, don't ever leave me alone. For without You, I could never, no, never make Heaven my home.
+
+2: Let me praise You, my Jesus, adore You through eternity, for Your mercy, only Your mercy made Heaven my future Home.
 lyrics_pl:
 1: Pozwól iść z Tobą, Jezu, i nigdy nie opuszczaj mnie! Bowiem niebo nigdy bez Ciebie nie stałoby się domem mym.
+
+2: Pozwól mi, Panie Jezu, przez wieczność Cię wielbić i czcić, bowiem łaska to uczyniła, że Niebo jest dziś Domem mym.
 
 ---
 
@@ -7156,7 +7204,11 @@ title_en: Pillar Of Fire
 title_pl: Słup Ognia
 key: D
 lyrics_en:
+1: The Pillar of Fire led the children of Israel. It led them out of Egypt land. Led them to the rock of Moriah. It led them to the manna in God’s land. Led them to God’s holy mountain, where He chose to speak unto them. But He wasn’t finished with them yet; He led them to the promise land.
+
 Chor.: What we have is the Pillar of Fire, leading the church of God again, leading us back to the Bible, leading us away from all sin. It's showing the resurrected Saviour, showing Himself alive again. What we have is the Pillar of Fire, burning in our hearts again.
+
+2: The early Church had the Pillar of Fire leading them each and everyday: "Show unto all of the people that Jesus is the only Way." Without the Blood there is no salvation. Without the Spirit there is no Life. What we need is the Pillar of Fire burning in the hearts of men.
 lyrics_pl:
 1: Słup Ognia wiernie wiódł lud Izraela. Z Egiptu wyprowadził ich. Wiódł ich w kierunku góry Moria. Świeżą mannę zsyłał z niebios Swych. Wiódł ich do wybranego miejsca, gdzie przemówić zamierzał On sam. Nie zakończył tam jednak Swej drogi, aż wskazał obiecany kraj.
 
@@ -7278,11 +7330,21 @@ Most: I słyszeć, jak mówi Pan: „Jesteś cenny Mi. Wejdź dziś do Mnie, mó
 ---
 
 id: 423
-title_en: Midnight Cry
+title_en: There Was A Midnight Cry
 title_pl: To Jak Sam Bóg 
 key: E
 lyrics_en:
+1: The saints of all the ages that's gone by, they long to see this happening in their time. But they died in faith anticipating for the day which is going on now, in this finishing hour.
+
 Chor.: There was a midnight cry, the Bridegroom's drawing nigh, there will be a rapture in a twinkling of an eye. Come trim the lamps of your hearts now, let the love of Christ shine bright in you, let His Life in you abide, Jesus Christ is revealing His Bride.
+
+2: Darkness holds this world in deadly grip, people's hearts are in religious sleep. But there's a holy and elected nation pure and right, for the harvest is ripe, fields are ready and white. 
+
+3: The glorious and spotless, sinless Bride, is ready to be standing by His side. She's given that fine linen of righteousness of saints, the perfection of Christ can be seen in their lives.
+
+4: How we cherish the Message of God. Let us sing a new song to the Lord! It's a sign to all the nations,  a divine manifestation, that we have a revelation who we are.
+
+Chor. 2: There was a midnight cry – "The Bridegroom's drawing nigh" There will be a rapture in the twinkling of an eye. Come, trim the lamps of your hearts now. Let the love of Christ shine bright in you, let His life in you abide, Jesus Christ is revealed in His Bride.
 lyrics_pl:
 1: To, jak sam Bóg zstąpił w naszych dniach i odsłonił całkiem Swoją twarz, chcieli ujrzeć wszyscy święci, co przed nami szli. Lecz tę obietnicę Pan wypełnił nam dziś.
 
@@ -7556,7 +7618,7 @@ lyrics_pl:
 ---
 
 id: 439
-title_en: We Are The Chosen Generation
+title_en: We Are The Generation
 title_pl: Jesteśmy Pokoleniem
 key: D
 lyrics_en:
@@ -8859,7 +8921,7 @@ Ref.: Tak długo nie wiedziałem, gdzie jest mój Dom - do czasu, aż poznałem 
 id: 514
 title_en: Fervent In The Spirit 
 title_pl: Płomienni Duchem Panu Służymy
-key: C
+key: E
 lyrics_en:
 1: Fervent in the Spirit, serving the Lord. Holding the Word that has been restored. We recognised the One standing here. Raising His standard high without fear.
 
@@ -9073,15 +9135,15 @@ title_en: No Matter How The Storm Is Raging
 title_pl: Nieważne Co Jest Wokół Mnie
 key: C
 lyrics_en:
-1: Be not afraid, with you I'll remain. If you lean on Me, you'll never fail. I offer you Peace, Joy and Relief, you will see wonders, only believe. 
-
 Chor.: No matter how the storm is raging, I don't care how the ground is shaking, my eyes fixed on Jesus, I'm in His Hand, Jesus will carry me right to the end.
+
+1: "Be not afraid, with you I'll remain. If you lean on Me, you'll never fail. I offer you Peace, Joy and Relief, you will see wonders, only believe."
 
 2: Jesus Your Word is my resting place. I go on my knees and remain there in prayer. I can't do anything when I'm on my own. You are Almighty, with You I'm strong.
 lyrics_pl:
-1: Rzekłeś mi, Jezu: „Nie lękaj się. Ja jestem z tobą, Ja wesprę cię. Zanurz się w błogim pokoju Mym. Jam Bogiem cudów, Jam Bogiem twym".
-
 Ref.: Nieważne, co jest wokół mnie, jak wiatr przeciwieństw mocno dmie. Wiem, Kto mnie niesie, gdy ciężko mi – Pan Jezus Chrystus; w Nim wzrok mój tkwi.
+
+1: Rzekłeś mi, Jezu: „Nie lękaj się. Ja jestem z tobą, Ja wesprę cię. Zanurz się w błogim pokoju Mym. Jam Bogiem cudów, Jam Bogiem twym".
 
 2: Port odpocznienia w Twym Słowie mam. Stale w modlitwie przed Tobą trwam. Ja nic nie mogę uczynić sam. Ty możesz wszystko, Wszechmocny Pan 
 
@@ -9259,7 +9321,7 @@ Ref.: Jehowa Nissi – Pan jest mym Sztandarem. Jehowa Rapha – Pan jest mym Le
 --- 
 
 id: 535
-title_en: Goodness of God
+title_en: Goodness Of God
 title_pl: Ja Kocham Cię
 key: G
 lyrics_en:
@@ -9273,9 +9335,11 @@ Bridge: Your goodness is running after, It's running after me. Your goodness is 
 lyrics_pl:
 1: Ja kocham Cię, Twoja łaska nie zawodzi. Od zawsze Ty trzymasz mnie w dłoniach Swych. Od momentu gdy się budzę, aż znów położę się. To śpiewać chcę: "O, jak dobry jest Bóg!".
 
-Ref.: Ty od zawsze byłeś wierny, Ty od zawsze byłeś dobry tak! I póki starczy mi oddechu, To śpiewać chcę: " o, jak dobry jest Bóg!".
+Ref.: Ty od zawsze byłeś wierny, Ty od zawsze byłeś dobry tak! I póki starczy mi oddechu, To śpiewać chcę: "o, jak dobry jest Bóg!".
 
 2: Twój dobry głos przeprowadził mnie przez ogień. A w ciemną noc, wiem, że będziesz blisko mnie. Jesteś moim Dobrym Ojcem i Przyjacielem mym, a Dobroć Twa, poprowadzi mnie wciąż.
+
+Most: Twa dobroć prowadzi mnie, prowadzi mnie wciąż. Twa dobroć prowadzi mnie, prowadzi mnie wciąż. Życie składam dziś przed Tobą tu, i oddam wszystko swe. Twa dobroć prowadzi mnie, prowadzi mnie wciąż.
 
 ---
 
@@ -9335,7 +9399,7 @@ Ref. 2: [:Jesteśmy w drodze. Zaczęliśmy w Bożych myślach tam, a skończymy 
 ---
 
 id: 539
-title_en: Count your Blessings
+title_en: Count Your Blessings
 title_pl: Policz Dary
 key: F
 lyrics_en:
@@ -9628,5 +9692,347 @@ Ref.: Tak, On jest, ze mną jest! Alleluja, w Nim radości zdrój! W dzień i w 
 3: Już nie żądam świeckich zdrad. Porzuciłem wszystko rad. Jezus odział mnie w wspaniały niebian strój. W moje serce Ducha tchnął, me brzemiona wszystkie zdjął. Odtąd ze mną Pocieszyciel mój.
 
 4: Odtąd zawsze przy mnie trwa, każdą troskę moją zna. W Nim mam wolność, siłę, szczęście, pokój swój. Duch Jezusa rządzi mną, syci hojnie duszę mą. Odtąd ze mną Pocieszyciel mój.
+
+---
+
+id: 552
+title_en: What A Fellowship
+title_pl: Przyjaciela Mam
+key: G
+lyrics_en:
+1: What a fellowship, what a joy divine, leaning on the everlasting arms; what a blessedness, what a peace is mine, leaning on the everlasting arms.
+
+Chor.: Leaning, leaning, safe and secure from all alarms; leaning, leaning, leaning on the everlasting arms.
+
+2: O how sweet to walk in this pilgrim way, leaning on the everlasting arms; O how bright the path grows from day to day, leaning on the everlasting arms.
+
+3: What have I to dread, what have I to fear, leaning on the everlasting arms? I have blessed peace with my Lord so near, leaning on the everlasting arms.
+lyrics_pl:
+1: Przyjaciela mam, co pociesza mnie, gdy o Jego ramię oprę się. On pokojem Swym, szczęściem darzy mnie, gdy o Jego ramię oprę się.
+
+Ref.: Boże ramię to jest w ucisku pewny gród. Boże ramię do Niebiańskich mnie zawiedzie wrót!
+
+2: O, jak słodko mi Jego uczniem być, gdy o Jego ramię oprę się! W Jego świetle iść, w Jego mocy żyć, gdy o Jego ramię oprę się.
+
+3: Bać nie muszę się ani ronić łez, gdy o Jego ramię oprę się! Pokój w duszy mam, gdy On blisko jest, gdy o Jego ramię oprę się.
+
+---
+
+id: 553
+title_en: I Have Heard But Now I See
+title_pl: Słyszałem Lecz Teraz Widzę
+key: B
+lyrics_en:
+1: I have heard but now I see this great host all around me. I cried in the day of trouble, You delivered me. So will I sing, You’ll guide me over death.
+
+Chor.: You have promised me, my Lord, that I’ll possess all the gates of my enemies. There may be weapons formed against me, but are bound to fail. They will go to war but not prevail. You’ll release Your perfect strength through my weaknesses, Your perfect strength.
+
+2: I can walk through the rivers and still stand on this solid ground. I know Who has the final word in every battle, so I’m resting in the shadow of His wings.
+lyrics_pl:
+1: Słyszałem, lecz teraz widzę, jak wielki zastęp jest wokół mnie. Wzywałem Cię w dniu niedoli; wybawiłeś mnie. Tobie śpiewam, bo wiedziesz poza śmierć.
+
+Ref.: Opanuję bramy nieprzyjaciół mych. To właśnie, Panie, poprzysiągłeś mi. A żadna broń ukuta przeciw mnie nie wskóra nic. Będą zwalczać mnie, lecz nie przemogą, bo wywiedziesz pełną moc ze słabości mej, zupełną moc.
+
+2: W Imieniu Twym tak cudnym przez wody mogę suchą stopą przejść. Wiem, do kogo należy dzisiaj ostanie zdanie. Odpoczywam już w cieniu skrzydeł Twych.
+
+---
+
+id: 554
+title_en: The Sun Is Up
+title_pl: To Promieni Blask
+key: D
+lyrics_en:
+1: The sun is up, now I can go free. These chains that were holding me, I can no longer see. Heard the long trumpet sound, declaring my jubilee, all that I once had again is restored to me, becuase the price has been paid, all my sins washed away. Now and for always, the sun is up.
+
+2: The Son is up, now I can go free. These chains that were holding me, I can no longer see. Heard the long trumpet sound, declaring my jubilee, all that I once had again is restored to me, because the Truth is revealed, He has open the Seals. Now and for always, the Son is up.
+lyrics_pl:
+1: To Promieni blask uwolnił dziś mnie, a każdy kajdan mój w nicość zamienił się. Jubileuszu czas, Boża trąba wciąż brzmi. To, co stracone, Pan dzisiaj przywrócił mi. Spłacony mój dług. Raz na zawsze mój grzech zmyty jest w Bożej Krwi. Jam wolny jest.
+
+2: To zstąpił sam Syn, uwolnił dziś mnie. A każdy kajdan mój w nicość zamienił się. Jubileuszu czas, Boża trąba wciąż brzmi. To, co stracone, Pan dzisiaj przywrócił mi. Każdą Pieczęć On sam zdjął, odsłonił mi się. Pełnia prawdy jest tu. Jam wolny jest.
+
+---
+
+id: 555
+title_en: I Met An Angel
+title_pl: Bóg Anioła Do Mnie Posłał
+key: E
+lyrics_en:
+1: On my way I met an angel. And I can’t forget that day, when the Message touched my heart and it spoke so loud and clear:
+
+Chor.: Now be thou blessed, you are highly favored. Mary of this hour will you now believe? You’ve been elected, called, predestinated. You are to bring forth Christ through your life.
+
+2: "Let it happen in my heart in accordance with your Word!" I received the angel’s Message to live freely in my soul.
+
+3: A new Life now formed in me. And I want to grow by grace to fulfill this great commission handed down by God Himself.
+
+Chor. 2: Now be thou blessed, you are highly favored. Mary of this hour will you now believe? You’ve been elected, called, predestinated. You are to bring forth Christ through your life.
+
+Chor. 3: Now I am blessed, I am highly favored. Mary of this hour He has called me now. I’ve been elected, called, predestinated. I am to bring forth Christ through my life.
+lyrics_pl:
+1: Bóg anioła do mnie posłał. Nie zapomnę chwili tej, gdy me serce usłyszało pierwszy raz Poselstwo Twe:
+
+Ref.: Bądź błogosławiona, łaską obdarzona. Mario tej godziny, czy uwierzysz mi? Jesteś powołana, przeznaczona i wybrana, by Chrystusa zrodzić dzisiaj w życiu swym.
+
+2: „Niechaj według Twego Słowa w moim sercu dzieje się” – tak przyjęłam to Poselstwo, aby żyło w duszy mej.
+
+3: Dziś brzemienna Bożym Słowem w objawieniu wzrastać chcę, by wypełnić powołanie, które Bóg dał żonie Swej.
+
+Ref. 2: Tyś błogosławiona, łaską obdarzona. Marią tej godziny Pan twój nazwał cię. Jesteś powołana, przeznaczona i wybrana, by Chrystusa Życie rodzić w każdy dzień.
+
+Ref. 3: Jam błogosławiona, łaską obdarzona. Marią tej godziny Pan mój nazwał mnie. Jestem powołana, przeznaczona i wybrana, by Chrystusa Życie rodzić w każdy dzień.
+
+---
+
+id: 556
+title_en: You’re A Chosen Generation
+title_pl: Jesteście Rodem Wybranym
+key: F
+lyrics_en:
+1: What the human mind can’t fathom, what seems impossible to imagine, is here, unveiled and proclaimed. So rise up and walk by faith, place your feet on what you possess. That’s your calling in this age.
+
+Chor.: You’re a chosen generation, My holy nation, a royal priesthood, My purchased people! Here proclaiming My attributes, as My offspring, a part of Me is in you. Long before this world began you were in My mind.
+
+2: I unveiled Myself before you, no one could know Me like this, but you. Old days are past, time for the New! When in the Cloud I showed My Face, you knew it’s Me, for you’re My heirs! I came to take you back Myself!
+
+3: Don’t give glory to your flesh, it’s so feable and powerless. That’s why soon it will be changed. But in your weakness I chose to dwell, I placed My Gene in your inner man, I look at you and see Myself.
+lyrics_pl:
+1: Co na umysł nie wstąpiło, co niemożliwe wydaje się – dziś odkryte dla was jest. Więc stawiajcie kroki swe, gdzie dziedzictwo wasze jest. W tym celu dziś wzbudziłem was.
+
+Ref.: Jesteście rodem wybranym, królewskim kapłaństwem, ludem świętym, narodem nabytym, byście dziś rozgłaszali cnoty Moje, gdyż sam zrodziłem was. Zanim powstał świat i czas, widziałem was.
+
+2: Odsłoniłem dla was Siebie. Nikt nigdy tak nie poznał Mnie. Lecz dziś nastał nowy dzień. Ukazałem Oblicze Swe. Rozpoznaliście wtedy Mnie. Wróciłem po was, dzieci Me.
+
+3: Wasze ciała słabe mdłe – nie dla nich chwała należy się. Wkrótce sam przemienię je. Lecz w tym, co słabe, ukryłem Siebie. Tam umieściłem Mój własny gen. Dziś Swój obraz widzę w was.
+
+---
+
+id: 557
+title_en: Dust To The Stars
+title_pl: Z Prochu Do Gwiazd
+key: A
+lyrics_en:
+1: Where were you when the morning stars sang together their song? Where were you when the sons of God shouted loudly for joy? Could you count the grains of sand on the seashore? Have you ever wondered, where the sun shows the way?
+
+Chor.: From the dust to the stars, where I fell out from, where I belong to. Where a special place is reserved just for me. From the dust to the stars, only one step away.
+
+2: God with us, even in us, till the end of this world. God with us, He placed eternity down in my heart. My soul will sing your praises and never be silent. I know where the sun shows a clear way for me.
+lyrics_pl:
+1: Gdzie byłeś, kiedy gwiazdy zaranne chórem śpiewały swą pieśń? Gdzie byłeś, gdy synowie Boży wydali okrzyk swój? Czy możesz policzyć piasek nad brzegiem morza? Czy wiesz, dokąd Światłość wskazuje drogę ci?
+
+Ref.: Z prochu do gwiazd! Tam, skąd wypadłem, tam, gdzie należę, gdzie specjalnie dla mnie miejsce jest. Z prochu do gwiazd; jestem już o krok.
+
+2: Bóg z nami, a nawet w nas aż do skończenia świata. Bóg z nami, a samą wieczność w nasze serca wlał. Niech moja chwała nigdy nie milknie przed Tobą, bo wiem, dokąd Światłość już teraz podnosi mnie.
+
+---
+
+id: 558
+title_en: Faithful Servant Enoch
+title_pl: Wierny Sługa Enoch
+key: G
+lyrics_en:
+1: Faithful servant Enoch walking close with God, when he felt his feet lifting from the ground. Walking in the Light so far and never turning back, He was commended that his God was pleased with him.
+
+Chor.: Faith will conquer and triumph over this evil age. It will keep walking on and it just knows no defeat. Don’t let go of the promise for our day ‘Cause the rapture is near, just firmly stand.
+
+2: Taken in the heavens, raptured in the sky, ready to go Home was Eijah in his time. Saw a fiery chairiot coming, „Now get inside and ride”; God made a perfect way, His promise stays the same.
+
+3: Revelation for the Bride, she’ll be raptured by and by. Do you want to leave or be left behind? Do you know that it’s in progress? Are you prepared to go? This world cannot hold you, it’s got to wave goodbye.
+lyrics_pl:
+1: Wierny sługa Enoch chodził z Bogiem tak, że raz poczuł, jak odrywa z ziemi się. W Świetle zaszedł daleko tak, że wracać nie chciał już, bo miał świadectwo, że podoba Bogu się.
+
+Ref.: Boża wiara zwycięży czasookres ten zły. Ona nie zna porażki, z nią zwyciężysz i ty. Uchwyć się obietnicy na ten dzień, bo przemiana, odejście czeka cię.
+
+2: Boży prorok Eliasz chodził wiernie tak, że pewnego dnia w górę poszybował hen. Bóg po niego zesłał rydwan. „Już czas na ciebie, wsiądź”. Obmyślił drogę Pan – to Ten, który jest w was!
+
+3: Zachwycenie dla Wybranej objawieniem jest. Czy masz w nim swój dział? Czy stąd odejść chcesz? Wiesz, że ono dziś jest w toku? Przygotowałeś się? Ziemska grawitacja już nie zatrzyma cię.
+
+---
+
+id: 559
+title_en: God So Rich In Mercy
+title_pl: Bóg Bogaty W Miłosierdzie
+key: D
+lyrics_en:
+1: God so rich in mercy! Is there anything too hard for Almighty Father? Master of every situation. I am certain of God now and every day.
+
+Chor.: I am a trophy of God’s mercy. I am a witness of the power of this Message. I am a living testimony for this world, that His Word can change my life and take me Home.
+
+2: God so rich in mercy! There is nothing that can pluck this Bride from His hand. How powerful He is! I can see it in this perfect Masterpiece.
+
+3: Jesus Christ, the mystery being now unfolded. Mighty God is unveiled right before us. Greater than every earthly king here below. Recognize Him today and what He has to say.
+lyrics_pl:
+1: Bóg bogaty w miłosierdzie! Czy jest cokolwiek zbyt trudnego dla Pana? Mistrz każdej sytuacji. Jestem pewny Boga dziś i w każdy dzień.
+
+Ref.: Jestem trofeum łaski Bożej, żywym świadectwem Boskiego uzdrowienia, świadkiem mocy Poselstwa na ten dzień, które całkiem przemieniło życie me.
+
+2: Bóg bogaty w miłosierdzie! Nic nie może wyrwać mnie z mocnej ręki Jego. Jak wszechmogącym On! Boże Arcydzieło pokazuje to.
+
+3: Chrystus – objawiona tajemnica Boga. Mocny Bóg odsłonięty dziś przed nami. Większy niż sam Salomon jest teraz tu. Więc rozpoznaj swój dzień i Poselstwa zew.
+
+---
+
+id: 560
+title_en: Your Deep Keeps Calling Me
+title_pl: Głębina Przyzywa Głębinę
+key: C
+lyrics_en:
+1: I’m dismayed by God’s great simplicity when He hides away His Majesty. What is foolish for the wise is so precious in God’s eyes. He has never changed this way, let us follow and obey.
+
+Chor.: Your deep keeps calling me! In the sound of Your waterfalls I find relief. There is something deep within. Who can stand in between? He won’t leave me, nor forsake me cause I am His own. He has loved me with love eternal.
+
+2: Now the fullness of the Word inspires me. It reveals my true identity. God Almighty stooped so low, cause He wanted us to know the attraction for today which will take His Wife away.
+
+Let the vision lead me to a higher place, where I see You with an open face. Though the world falls apart, there is gladness in my heart. For there’s nothing here below that can stop my raptured soul.
+lyrics_pl:
+1: Ta prostota, która tak urzekła mnie – w niej nasz Pan zawsze ukrywa się. Co u ludzi jest wzgardzone, to u Boga wywyższone. Tak wspaniała droga ta, którą wskazał nam nasz Pan!
+
+Ref.: Głębina przyzywa głębinę! Odgłos Twoich wodospadów przenika mnie. Coś pulsuje w sercu mym. Nie zatrzyma tego nikt. Nic nie może mnie odłączyć od miłości Twej. Nic nie może nas rozdzielić.
+
+2: Już wiem, co atrakcją na tej górze jest. Widzę, jak wypełnia każde Słowo się. Wielki Bóg zszedł tak nisko – to przyciąga mnie tak blisko. Do rzeczywistości Swej On podnosi dzisiaj mnie.
+
+3: Wizja Słowa niechaj ciągle wiedzie mnie, która sięga ponad myśli me. Znak przez ludzi przeoczony – dla nas dzisiaj objawiony. Rozradować w prawdzie się – tego dusza moja chce.
+
+---
+
+id: 561
+title_en: Who Is This Melchizedek
+title_pl: Kim Jest Ten Melchizedek
+key: c-minor
+lyrics_en:
+2: Who is this Melchizedek, this King of Salem? Who is this Melchizedek, this King of Jerusalem? I am a gentile, I need to know for sure. I am a Moabite, I've worshiped foreign gods. But have heard of a Land, a different civilization of a people who worship the Lamb.
+
+Chor.: Tell me of this City. Tell me of the Land. Tell me of this people who worship the Lamb. Tell me of this earth and it';s generations. For I am a Moabite sitting at the threshing floor.
+
+2: Yes, I have been quickened, my course is changed. I am no longer a stranger but a citizen of Jerusalem. Though I'm a gentile now I have access to Him. I am a gentile there is so much I need to know. Tell me more about this God, about these dimensions and worlds. For I am a candidate of this supernatural World.
+
+Chor. 2: Tell me of this City. Tell me of the Land. Tell me of this people who worship the Lamb. Tell me of this World and of it's dimensions. For I'm a candidate of this supernatural World. Tell me of this Bread, tell me of this Wine. Tell me of this body that's broken for me. Tell me of this way how to change dimension to my Theophany that is the positive of me.
+
+3: You told me I have three bodies, but there's only one of me. You told me I am eternal. [:With You in eternity I'll be.:]
+lyrics_pl:
+1: Kim jest ten Melchizedek, nasz Król Salemu? Kim jest ten Melchizedek, nasz Król Jeruzalemu? Jestem poganka Rut i pragnę więcej poznać Cię. Wędrować nie chcę już za bogami obcych ziem. Usłyszałam o tej cywilizacji innej i o ludziach Barankowi oddających cześć.
+
+Ref.: Co to za Miasto? Co to za Kraj? Kim są ci ludzie żyjący w nim? Opowiedz mi więcej! Co to za ziemia? Skąd ona jest? Mój Boazie, ja na klepisku czekam Cię!
+
+2: Ożywiająca siła drogi mej kurs zmieniła. Już nie obcymi w Kraju tym, lecz obywatelami Jeruzalemu. Bóg nam poganom dał odegrać rolę w planie Swym, a my niewiele tak o Bogu swoim wiemy wciąż. O Bogu więcej powiedz mi, o tych wymiarach i światach. Nadprzyrodzonych dzieł uczestnikiem jestem ja.
+
+Ref. 2: Co to za Miasto? Co to za Kraj? Kim są ci ludzie żyjący w nim? Opowiedz mi więcej! Co to za ziemia, wymiary jej? Nadprzyrodzone przeznaczone dla mnie jest. Czym jest ten Chleb? Czym jest to Wino? I jakie ciało za mnie Ty złożyłeś w ofierze? Otworzyłeś drogę do teofanii, do wymiaru, gdzie mój pozytyw realny jest.
+
+3: O ciałach trzech powiedziałeś mi i że w ciele uwielbionym będę żyć jak Ty. Jestem z wieczności – powiedziałeś mi. [:Będę żyć, w Wiecznym Mieście z Tobą żyć.:]
+
+---
+
+id: 562
+title_en: Place Me As A Seal
+title_pl: Połóż Mnie Jak Pieczęć
+key: D
+lyrics_en:
+1: Place Me as a seal over your heart, like a signet wear Me on your arm. Everything on earth has its own time, but our God put in my heart His eternal mark.
+
+Chor.: This love cannot be just quenched by many waters, nor can rivers overflow this love. A threefold cord is not quickly broken. Our loving God keep blessing us. Let Your mercies still abound.
+
+2: Finest oil – Your Name is to my soul. I will hold You and never let You go. Even death, there’s nothing it can do. Mighty Flame, blazing Fire, let my song begin.
+
+Chor. 2: This love cannot be just quenched by many waters, nor can rivers overflow this love. A threefold cord is not quickly broken. I am in His eyes, as one who found all the favour in His sight.
+lyrics_pl:
+1: Połóż Mnie jak pieczęć na swym sercu, jak obrączkę na ramieniu swym. Wszystko na tej ziemi ma swój czas. Jednak Bóg już w wieczności razem widział nas.
+
+Ref.: Wielkie wody nie ugaszą tej miłości, a strumienie nie zaleją jej. Potrójny sznur wytrzyma wszystko. Dobry Boże nasz, błogosław nas w obfitości Swoich łask.
+
+2: Imię Twe jak najlepszy olejek. Uchwyciłam i nie puszczę Cię. Miłość ta – śmierć nie przemoże jej. Ognia żar, Płomień Pana. Nastał śpiewu czas!
+
+Ref. 2: Wielkie wody nie ugaszą tej miłości, a strumienie nie zaleją jej. Potrójny sznur wytrzyma wszystko. Jestem w oczach Twych dziś jako ta, która wieczne szczęście ma.
+
+---
+
+id: 563
+title_en: Found By Amazing Grace
+title_pl: Łaska Znalazła Mnie
+key: F
+lyrics_en:
+Chor.: Found by Amazing Grace. How could I deserve a gift so great? My life is forever changed. Blessed peace now fills my soul. Amazing Grace has done it all. 
+
+1: Let me tell you about my Lord, how He opened my heart’s door, stepping in, He said, "My freedom now is yours." "I’m The One that paid it all. The load of sin is no more yours. Now you’re free to live a life, in abundance by My side."
+
+2: Amazing Grace has led me to the revealed, end time Word, so I make it through this dark, evil world. Oh, what joy it is to see – I’m in the Word, the Word’s in me. I know what I’m destined for. Amazing Grace will lead me Home.
+lyrics_pl:
+Ref.: Łaska znalazła mnie. Nie myślałem, że wybierze mnie. Me życie zmieniło się. Pokój w duszy na zawsze mam, bo przyjąłem łaski dar.
+
+1: Chcę powiedzieć dzisiaj ci, jak otworzył Bóg me drzwi, wstąpił i powiedział: „Wolnym jesteś dziś”. „Ja zmazałem cały dług, każdy grzech, każdy brud, byś w wolności dzisiaj mógł obfitować ze Mną tu”.
+
+2: Łaska wprowadziła mnie wprost do Słowa na ten dzień, bym mógł ostać się w godzinie tak ciemnej, złej. Krzyk radości w sercu brzmi. Widzę siebie w Słowie tym. Wiem, gdzie zmierzam, znam swój cel. Łaska doprowadzi mnie.
+
+---
+
+id: 564
+title_en: Speak The Word
+title_pl: Panie Mów
+key: D
+lyrics_en:
+1: Speak the Word, speak the Word, speak the Word, the eternal, infallible Word. Speak the Truth to me, let It set me free. Speak the Word, speak the Word, speak the Word, the eternal, Divine, holy Word. Let It calm my soul. Shape and make me whole. Speak the Word.
+
+Chor.: I will hide It in my heart, cherish every part. Let It heal, renew, cleans me through and through. I will make It my delight living by It's Light. My faith I know will rise in these Words so rich and wise. Speak the Word.
+
+2: Speak the Word, speak the Word, speak the Word, the eternal, Divine, holy Word. Let It light my path as each promise stands. Speak the Word, speak the Word, speak the Word, the eternal, Divine, holy Word. Let It's power rise to dispel all lies. Speak the Word.
+lyrics_pl:
+1: Panie, mów, poślij znów Słowo Swe. Ono wieczne i żywe wciąż jest. Niech mi Prawda Twa uwolnienie da. Panie, mów, poślij znów Słowo Swe. Święte Słowo na dziś słyszeć chcę. Niech mej duszy da balsam, który ma Słowo Twe.
+
+Ref.: Rozkochało w sobie mnie Słowo na ten dzień. Sprawiedliwość Swą wlało w duszę mą. W Świetle Słowa wiara ma rośnie wciąż co dnia. W sercu noszę Je, aby Życiem stało się Słowo Twe.
+
+2: Panie, mów, objaw znów Słowo Swe, które Ty dałeś nam na ten dzień. Niech oświeca wciąż jasno ścieżkę mą. Panie, mów, objaw znów Słowo Swe. W Nim jest moc, by zwyciężyć, co złe. Niech przed światem tym jest schronieniem mym Słowo Twe.
+ 
+---
+
+id: 565
+title_en: Thy Will I Want To Do
+title_pl: Mój Panie Pragnę Czynić Wolę Twą
+key: A
+lyrics_en:
+1: Oh, my dear Lord, Thy will I want to do. I want to walk along the way with You. I want to serve and honour my dear Groom. I want to rest by leaning on Your Breast.
+lyrics_pl:
+1: Mój Panie, pragnę czynić wolę Twą, przy boku Twym przejść całą drogę mą, z miłości służyć jako żona Twa, spoczynek mieć na piersi El Shaddai.
+
+---
+
+id: 566
+title_en: I Will Meet Thee
+title_pl: Tam Spotkajmy Się
+key: C
+lyrics_en:
+1: [:I will meet Thee, I will meet Thee. Between the wings of the Cherubim I will meet Thee.:]
+
+2: [:Commune with Me, commune with Me. Between the wings of the Cherubim commune with Me.:]
+
+3: [:I have hidden thee, I have hidden thee. Between the wings of the Cherubim I have hidden thee.:]
+
+4: [:I will worship Thee! I will worship Thee! Between the wings of the Cherubim I will worship Thee!:]
+lyrics_pl:
+1: [:Tam spotkajmy się, tam spotkajmy się, gdzie Cheruby dwa mają skrzydła swe, tam spotkajmy się.:]
+
+2: [:Komunię ze Mną miej, komunię ze Mną miej, gdzie Cheruby dwa mają skrzydła swe, komunię ze Mną miej.:]
+
+3: [:Tam ukryłem cię, tam ukryłem cię, gdzie Cheruby dwa mają skrzydła swe, tam ukryłem cię.:]
+
+4: [:Wielbię, Boże, Cię! Wielbię, Boże, Cię! Gdzie Cheruby dwa mają skrzydła swe, wielbię, Boże, Cię!:]
+
+---
+
+id: 567
+title_en: Someone's At The Door
+title_pl: Ktoś Zapukał Tu
+key: A
+lyrics_en:
+1: Someone's at the door, to my heart today. And I saw You, how so lonely, and rejected You stood still. Your prophetic Voice, became grace to me. You had opened me your pathway, and with you I long to go.
+
+Chor.: For it was You, by the Word you made the earth and You stooped to take on flesh, and shed Your holy blood, to taste the pain, and to walk through suffering. The rejected King of Kings, just knows me oh so well. 
+
+2: Your powerful hand is holding me so tight and it leads me through earth's trials, so that I can overcome. When I'm lacking strength, you stand next to me. In my weakness, you give power. Yes I need you Lord, I do.
+lyrics_pl:
+1: Ktoś zapukał tu, w mego serca drzwi. Zobaczyłem, jak samotny, odrzucony stałeś Ty. Twój proroczy Głos łaską mi się stał. Otworzyłeś mi Twą drogę, razem z Tobą idę ja. 
+
+Ref.: To byłeś Ty, który Słowem stworzył świat i do ciała zniżył się, Swą świętą przelać Krew, skosztować ból, przez cierpienia tutaj iść. Odrzucony królów Król rozumie dobrze mnie.
+
+2: Twoja silna dłoń mocno trzyma mnie i prowadzi w życia boju, bym zwycięsko skończył bieg. Kiedy brak mi sił, blisko Ciebie mam. W mych słabościach dajesz mocy. Potrzebuję Ciebie, tak.
+
+
 
 
