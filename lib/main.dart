@@ -12,6 +12,44 @@ void main() {
 /// Defines available song-sorting options for the application list view.
 enum SortOption { numberAsc, numberDesc, az, za, key }
 
+/// Strips accents (including Polish diacritics), punctuation, and normalizes spacing.
+String normalizeSearchText(String input) {
+  // Mapping of accented/diacritic characters to basic Latin characters
+  const diacriticsMap = {
+    // Polish diacritics
+    'ą': 'a', 'ć': 'c', 'ę': 'e', 'ł': 'l', 'ń': 'n', 'ó': 'o', 'ś': 's', 'ź': 'z', 'ż': 'z',
+    'Ą': 'a', 'Ć': 'c', 'Ę': 'e', 'Ł': 'l', 'Ń': 'n', 'Ó': 'o', 'Ś': 's', 'Ź': 'z', 'Ż': 'z',
+    // Common Western Latin diacritics
+    'à': 'a', 'á': 'a', 'â': 'a', 'ã': 'a', 'ä': 'a', 'å': 'a',
+    'è': 'e', 'é': 'e', 'ê': 'e', 'ë': 'e',
+    'ì': 'i', 'í': 'i', 'î': 'i', 'ï': 'i',
+    'ò': 'o', 'ô': 'o', 'õ': 'o', 'ö': 'o',
+    'ù': 'u', 'ú': 'u', 'û': 'u', 'ü': 'u',
+    'ý': 'y', 'ÿ': 'y', 'ñ': 'n', 'ç': 'c',
+    'À': 'a', 'Á': 'a', 'Â': 'a', 'Ã': 'a', 'Ä': 'a', 'Å': 'a',
+    'È': 'e', 'É': 'e', 'Ê': 'e', 'Ë': 'e',
+    'Ì': 'i', 'Í': 'i', 'Î': 'i', 'Ï': 'i',
+    'Ò': 'o', 'Ô': 'o', 'Õ': 'o', 'Ö': 'o',
+    'Ù': 'u', 'Ú': 'u', 'Û': 'u', 'Ü': 'u',
+    'Ý': 'y', 'Ñ': 'n', 'Ç': 'c',
+  };
+
+  String output = input.toLowerCase();
+
+  // Replace diacritics
+  diacriticsMap.forEach((key, value) {
+    output = output.replaceAll(key.toLowerCase(), value);
+  });
+
+  // Remove punctuation, special characters, and collapse extra spaces
+  output = output
+      .replaceAll(RegExp(r'[^\w\s]', unicode: true), '') // Strip non-word characters except whitespace
+      .replaceAll(RegExp(r'\s+'), ' ')                    // Normalize whitespace
+      .trim();
+
+  return output;
+}
+
 /// Centralized application color palette matching a custom dark UI theme specification.
 class AppColors {
   static const Color primary = Color(0xFF1E6091);     // Primary brand blue color
@@ -425,10 +463,10 @@ class _MainLayoutState extends State<MainLayout> {
         : songs.where((song) => bookmarkedIds.contains(song['id'])).toList();
 
     // Pipeline Filtering Stage 2: Filter out elements not matching current text field queries
-    final query = searchQuery.toLowerCase();
-    List<Map<String, String>> displayedSongs = (_currentIndex == 0 && query.isNotEmpty)
+    final normalisedQuery = normalizeSearchText(searchQuery);
+    List<Map<String, String>> displayedSongs = (_currentIndex == 0 && normalisedQuery.isNotEmpty)
     ? tabFilteredSongs.where((song) {
-        return song.values.any((value) => value.toLowerCase().contains(query));
+        return song.values.any((value) => normalizeSearchText(value).contains(normalisedQuery));
       }).toList()
     : List.from(tabFilteredSongs);
 
