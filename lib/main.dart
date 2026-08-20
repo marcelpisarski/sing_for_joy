@@ -12,8 +12,8 @@ void main() {
 /// Defines available song-sorting options for the application list view.
 enum SortOption { numberAsc, numberDesc, az, za, key }
 
-/// Strips accents (including Polish diacritics), punctuation, and normalizes spacing.
-String normalizeSearchText(String input) {
+/// Strips accents (including Polish diacritics), punctuation, and normalises spacing.
+String normaliseSearchText(String input) {
   // Mapping of accented/diacritic characters to basic Latin characters
   const diacriticsMap = {
     // Polish diacritics
@@ -44,7 +44,7 @@ String normalizeSearchText(String input) {
   // Remove punctuation, special characters, and collapse extra spaces
   output = output
       .replaceAll(RegExp(r'[^\w\s]', unicode: true), '') // Strip non-word characters except whitespace
-      .replaceAll(RegExp(r'\s+'), ' ')                    // Normalize whitespace
+      .replaceAll(RegExp(r'\s+'), ' ')                    // Normalise whitespace
       .trim();
 
   return output;
@@ -463,10 +463,10 @@ class _MainLayoutState extends State<MainLayout> {
         : songs.where((song) => bookmarkedIds.contains(song['id'])).toList();
 
     // Pipeline Filtering Stage 2: Filter out elements not matching current text field queries
-    final normalisedQuery = normalizeSearchText(searchQuery);
+    final normalisedQuery = normaliseSearchText(searchQuery);
     List<Map<String, String>> displayedSongs = (_currentIndex == 0 && normalisedQuery.isNotEmpty)
     ? tabFilteredSongs.where((song) {
-        return song.values.any((value) => normalizeSearchText(value).contains(normalisedQuery));
+        return song.values.any((value) => normaliseSearchText(value).contains(normalisedQuery));
       }).toList()
     : List.from(tabFilteredSongs);
 
