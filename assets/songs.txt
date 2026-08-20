@@ -8669,9 +8669,11 @@ Ref.: "Szalom, Szalom" - w nowym poranku wita nas On. Szalom, Szalom! Już blisk
 id: 498
 title_en: The Lord Is Building His New Jerusalem
 title_pl: Pan Buduje Swe Nowe Jeruzalem
-key: D
+key: C
 lyrics_en:
-(No English lyrics given in text)
+1: God is building His new Jerusalem, gathering all His own. He calls those whose robes are washed and spotless in His holy blood. He heals wounds, and wipes every tear, making all things new and clear. God will dwell within New Jerusalem, we will live with Him.
+
+2: New bodies God prepared, for those who have received a brand new name. In His city we will live on forever in the Light of Christ. Jesus, God's spotless lamb is He; On Him God built all things to be. All the earth and New Jerusalem- Endless glory be!
 lyrics_pl:
 1: Pan buduje Swe nowe Jeruzalem, zbiera wybranych Swych. Wzywa tych, których szaty są wyprane w świętej Jego Krwi. Leczy rany, uciszy krzyk, wszystko nowym uczyni w nim. Pan zamieszka w tym nowym Jeruzalem, my będziemy z Nim.
 
@@ -9150,7 +9152,7 @@ Ref.: Nieważne, co jest wokół mnie, jak wiatr przeciwieństw mocno dmie. Wiem
 ---
 
 id: 526
-title_en: I Am Your God
+title_en: I Am The God
 title_pl: Jam Jest Twój Bóg
 key: D
 lyrics_en:
@@ -10033,6 +10035,26 @@ Ref.: To byłeś Ty, który Słowem stworzył świat i do ciała zniżył się,�
 
 2: Twoja silna dłoń mocno trzyma mnie i prowadzi w życia boju, bym zwycięsko skończył bieg. Kiedy brak mi sił, blisko Ciebie mam. W mych słabościach dajesz mocy. Potrzebuję Ciebie, tak.
 
+---
 
+id: 568
+title_en: There'll Be Shouting On The Hills
+title_pl: Będę Wykrzykiwać Na Wyżynach Chwały
+key: G
+lyrics_en:
+Chor.: There'll be shouting on the hills of glory, Shouting on the hills, shouting on the hills. There'll be shouting on the hills of glory, There'll be shouting on the hills of God.
 
+1: Oh what a blessed reunion, Oh what a blessed reunion. When we're together over yonder, There'll be shouting on the hills of God.
+
+2: No more sorrow in that city, No more sorrow in that city. Jesus prepared a place in heaven There'll be shouting on the hills of God.
+
+3: Now's the time for preparations, Now’s the time for preparations. So stop and make your reservation, There’ll be shouting on the hills of God.
+lyrics_pl:
+Ref.: Będę wykrzykiwać na wyżynach Chwały, krzyki będą tam, radość będzie tam. Będę wykrzykiwać na wyżynach Chwały, będę wykrzykiwać w Niebie tam.
+
+1: O co za cudne to spotkanie, Błogosławione spotkanie, gdy Odkupieni się zgromadzą, będę wykrzykiwać w Niebie tam.
+
+2: Smutku więcej tam nie będzie, bólu wiecej tam nie będzie. Jezus zgotował nam tam miejsce, będę wykrzykiwać w Niebie tam.
+
+3: Teraz jest czas przygotowań, teraz jest czas przygotowań. Dziś więc dokonaj rezerwacji, będę wykrzykiwać w Niebie tam.
 

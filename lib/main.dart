@@ -426,9 +426,11 @@ class _MainLayoutState extends State<MainLayout> {
 
     // Pipeline Filtering Stage 2: Filter out elements not matching current text field queries
     final query = searchQuery.toLowerCase();
-    List<Map<String, String>> displayedSongs = tabFilteredSongs.where((song) {
-      return song.values.any((value) => value.toLowerCase().contains(query));
-    }).toList();
+    List<Map<String, String>> displayedSongs = (_currentIndex == 0 && query.isNotEmpty)
+    ? tabFilteredSongs.where((song) {
+        return song.values.any((value) => value.toLowerCase().contains(query));
+      }).toList()
+    : List.from(tabFilteredSongs);
 
     // Pipeline Filtering Stage 3: Apply active ordering comparator algorithms safely
     displayedSongs.sort((a, b) {
