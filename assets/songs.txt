@@ -9214,7 +9214,7 @@ key: F
 lyrics_en:
 1: The Spirit lives to set us free, walk, walk in the light. He binds us all in unity, walk, walk in the light.
 
-Chor.: [: Walk in the light:] Walk in the light, walk in the light of the Lord.
+Chor.: [:Walk in the light:] Walk in the light, walk in the light of the Lord.
 
 2: The Spirit lives in you and me, walk, walk in the light. His light will shine for all to see, walk, walk in the light.
 
@@ -9222,7 +9222,7 @@ Chor.: [: Walk in the light:] Walk in the light, walk in the light of the Lord.
 lyrics_pl:
 1: Jak dobrze być razem w społeczności tu dziś, krocz, krocz, w Świetle krocz, by słów Jego słuchać, według nich dalej żyć. Krocz, krocz, w Świetle krocz.
 
-Ref.: [: Krocz, w Świetle krocz:] Krocz, w Świetle krocz. Krocz, w Świetle Jego, krocz. 
+Ref.: [:Krocz, w Świetle krocz:] Krocz, w Świetle krocz. Krocz, w Świetle Jego, krocz. 
 
 2: Dziś Światło wieczorne zgromadza tu nas. Krocz, krocz, w Świetle krocz. To sam Chrystus Pan objawia się nam. Krocz, krocz, w Świetle krocz. 
 
@@ -10075,4 +10075,6 @@ Ref.: Będę wykrzykiwać na wyżynach Chwały, krzyki będą tam, radość będ
 2: Smutku więcej tam nie będzie, bólu wiecej tam nie będzie. Jezus zgotował nam tam miejsce, będę wykrzykiwać w Niebie tam.
 
 3: Teraz jest czas przygotowań, teraz jest czas przygotowań. Dziś więc dokonaj rezerwacji, będę wykrzykiwać w Niebie tam.
+
+---
 
