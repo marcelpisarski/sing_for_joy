@@ -1611,9 +1611,21 @@ title_en: There Is A River
 title_pl: Tam Płynie Rzeka
 key: F
 lyrics_en:
-1: There is a river that flows from deep within. There is a fountain that frees the soul from sin. Come to these waters; there is a vast supply. There is a river that never shall run dry.
+Chor.: There is a river that flows from deep within. There is a fountain that frees the soul from sin. Come to these waters; there is a vast supply. There is a river that never shall run dry.
+
+1: There came a sound from Heaven, like a rushing mighty wind, it filled their hearts with singing, and gave them peace within. The Prophet gave this promise, the Spirit will descend, and from your inner being, a river with no end.
+
+2: There was a thirsty woman, who was drawing from a well. Her life was ruined and wasted, her soul was bound for hell. Then she met the Master, who told of her great sin, and if you drink this water, you'll never thirst again.
+
+Chor. 2: There is a river that flows from God above, there is a fountain that's filled with His great love. Come to this water, there is a vast supply. There is a river that never shall run dry.
 lyrics_pl:
-1: Tam płynie rzeka przejrzysta jak kryształ, wody żywota od tronu Baranka. Chodź pić tę wodę, bezpłatnie do syta, chodź do źródła życia, co leczy i zbawia.
+Ref.: Tam płynie Rzeka przejrzysta jak kryształ, Wody Żywota od Tronu Baranka. Chodź pić tę Wodę, bezpłatnie do syta. Chodź do Źródła Życia, co leczy i zbawia.
+
+1: Do studni raz przybyła, by czerpać wodę z niej, niewiasta, której życie i duszę zniszczył grzech. Spotkała wtedy Mistrza, On grzech objawił jej: „Spragniona już nie będziesz, gdy dam ci Wody Mej”.
+
+2: W dół raz zstąpił z Nieba, jak wiatr, gwałtowny szum. Wypełnił serca śpiewem i wlał w nie pokój Swój. Jak Prorok nam obiecał, ten Duch tu zstąpił znów, a z naszych wnętrz wypływa ten strumień Bożych Wód.
+
+Ref. 2: Dziś płynie Rzeka przejrzysta jak kryształ, Wody Żywota od Tronu Baranka. Chodź pić tę Wodę, bezpłatnie, do syta. Chodź do Źródła Życia, co leczy i zbawia.
 
 ---
 
@@ -2639,11 +2651,13 @@ lyrics_pl:
 ---
 
 id: 146
-title_en: Ask In Faith
+title_en: Pray With Faith
 title_pl: Proś Z Wiarą
 key: G
 lyrics_en:
-(No English lyrics given in text)
+1: Pray, with faith, pray, it shall be given you. Seek, and you shall find. Knock, and the door will open up to you. So knock, and seek, and pray!
+
+2: Trust, that the Lord, Christ Jesus can save you. Believe he died for you. Take grace by faith from the hands of Jesus. You will live, just believe!
 lyrics_pl:
 1: Proś z wiarą, proś, a będzie dane ci. Szukaj, a znajdziesz wnet. Pukaj, a będzie otworzone ci. Więc pukaj, szukaj, proś!
 
@@ -6644,7 +6658,7 @@ key: F
 lyrics_en:
 1: Hear the cries of the shackled from the onset of time, for the chains of defeat there's no key. See the tears of the broken, the cries of the slaves: Is there no one worthy to set us free?
 
-Chor.: [:Worthy, worthy. Worthy is the Lamb that was slain:]
+Chor.: [:Worthy, worthy. Worthy is the Lamb that was slain!:]
 
 2: Then the crying is stilled as the chorus rings out, the shackled released from their chains. And thousands of voices are swelling the song: Worthy the Lamb that was slain.
 
@@ -6786,7 +6800,7 @@ key: G
 lyrics_en:
 1: I'm in that number, I'm in that number, I'm in that number robed in white. I'm in that number, I'm in that number, I'm in that number robed in white.
 
-Chor.: [:That blood washed number:]. I'm in that number washed in white. [:that blood washed number:]. I'm in that number washed in white.
+Chor.: [:That blood washed number:]. I'm in that number washed in white. [:That blood washed number:]. I'm in that number washed in white.
 
 2: John saw that number, the blood-washed number. John saw that number all robed in white. John saw that number, the blood-washed number. John saw that number all robed in white.
 lyrics_pl:
@@ -8667,7 +8681,7 @@ Ref.: "Szalom, Szalom" - w nowym poranku wita nas On. Szalom, Szalom! Już blisk
 ---
 
 id: 498
-title_en: The Lord Is Building His New Jerusalem
+title_en: God Is Building His New Jerusalem
 title_pl: Pan Buduje Swe Nowe Jeruzalem
 key: C
 lyrics_en:
@@ -9252,14 +9266,16 @@ Ref.: Jestem wolny, dzień nastał mój. Jestem wolny, mogę sobą być. Jestem 
 
 id: 531
 title_en: Have Your Way
-title_pl: Prowadź Mnie Swoją Drogą
+title_pl: Prowadź Mnie
 key: E
 lyrics_en:
 1: Have Your way, have Your way, Holy Spirit, fill our hearts and have Your way.
 
 2: As we wait, and as we pray, speak Your Word into our hearts, and have Your way.
 lyrics_pl:
-(W tekście brak polskiego tekstu)
+1: Prowadź mnie, prowadź mnie, Duchu Święty, napełnij nas i prowadź mnie.
+
+2: Gdy czekam, modlę się. Przemów Słowem do naszych serc, i prowadź mnie. 
 
 ---
 
@@ -9350,7 +9366,7 @@ title_en: Sing Unto The Lord A New Song
 title_pl: Śpiewaj Panu Dziś Nową Pieśń
 key: C
 lyrics_en:
-1: [:Sing unto the Lord a new song. Let His praises fill the temple, He is the King of kings and the Lord of lords. Bow down before Him.:]
+1: [:Sing unto the Lord a new song. Let His praises fill the temple, He is the King of Kings and the Lord of lords. Bow down before Him.:]
 
 Chor.: [:Hallelujah, glory to God! Hallelujah, glory to God!:]
 lyrics_pl:
@@ -9365,7 +9381,9 @@ title_en: I'm Only In This Message By Grace
 title_pl: Tylko Z Łaski
 key: C
 lyrics_en:
-1: I'm only in this Message by grace. It is only by grace that I'm in this place. I don't know how my Lord God chose me, but I'm thankful anyway. I'm only in this Message by grace.
+1: I'm only in this Message by grace. It is only by grace that I'm in this place. I don't know how my Lord God chose me, but I'm thankful anyway! I'm only in this Message by grace.
+
+2: I'm only in this Message by grace. It is only by grace, I walk in His ways. I know the Word is my everything. Lord, my thanks to You I bring! I'm only in this Message by grace.
 lyrics_pl:
 1: Tylko z łaski w tym Poselstwie jam jest. Tylko z łaski całe serce oddałem Mu swe. Ja nie wiem jak, lecz mnie wybrałeś. Panie, dzięki Tobie ślę! Tylko z łaski w tym Poselstwie jam jest.
 

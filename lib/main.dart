@@ -339,6 +339,15 @@ class _MainLayoutState extends State<MainLayout> {
     await _updatePreference(AppPrefs.bookmarks, bookmarkedIds);
   }
 
+  /// Reorders the bookmarks array and saves the new custom sequence to storage.
+  void _onReorderBookmarks(int oldIndex, int newIndex) {
+    setState(() {
+      final String item = bookmarkedIds.removeAt(oldIndex);
+      bookmarkedIds.insert(newIndex, item);
+    });
+    _updatePreference(AppPrefs.bookmarks, bookmarkedIds);
+  }
+
   /// Swaps interface language context values dynamically.
   Future<void> toggleGlobalLanguage() async {
     setState(() => isGlobalEnglish = !isGlobalEnglish);
@@ -457,39 +466,44 @@ class _MainLayoutState extends State<MainLayout> {
 
   @override
   Widget build(BuildContext context) {
-    // Pipeline Filtering Stage 1: Filter out items if browsing the Saved/Bookmarks tab
-    List<Map<String, String>> tabFilteredSongs = _currentIndex == 0
-        ? songs
-        : songs.where((song) => bookmarkedIds.contains(song['id'])).toList();
+    // Pipeline Filtering Stage 1: Resolve dataset based on active tab
+    List<Map<String, String>> displayedSongs;
 
-    // Pipeline Filtering Stage 2: Filter out elements not matching current text field queries
-    final normalisedQuery = normaliseSearchText(searchQuery);
-    List<Map<String, String>> displayedSongs = (_currentIndex == 0 && normalisedQuery.isNotEmpty)
-    ? tabFilteredSongs.where((song) {
-        return song.values.any((value) => normaliseSearchText(value).contains(normalisedQuery));
-      }).toList()
-    : List.from(tabFilteredSongs);
+    if (_currentIndex == 0) {
+      // Pipeline Filtering Stage 2: Filter out elements not matching current text field queries
+      final normalisedQuery = normaliseSearchText(searchQuery);
+      displayedSongs = normalisedQuery.isNotEmpty
+          ? songs.where((song) => song.values.any((val) => normaliseSearchText(val).contains(normalisedQuery))).toList()
+          : List.from(songs);
 
-    // Pipeline Filtering Stage 3: Apply active ordering comparator algorithms safely
-    displayedSongs.sort((a, b) {
-      final int idA = int.tryParse(a['id'] ?? '0') ?? 0;
-      final int idB = int.tryParse(b['id'] ?? '0') ?? 0;
-      final String titleA = (a[isGlobalEnglish ? 'title_en' : 'title_pl'] ?? '').toLowerCase();
-      final String titleB = (b[isGlobalEnglish ? 'title_en' : 'title_pl'] ?? '').toLowerCase();
+      // Pipeline Filtering Stage 3: Apply active ordering comparator algorithms safely
+      displayedSongs.sort((a, b) {
+        final int idA = int.tryParse(a['id'] ?? '0') ?? 0;
+        final int idB = int.tryParse(b['id'] ?? '0') ?? 0;
+        final String titleA = (a[isGlobalEnglish ? 'title_en' : 'title_pl'] ?? '').toLowerCase();
+        final String titleB = (b[isGlobalEnglish ? 'title_en' : 'title_pl'] ?? '').toLowerCase();
 
-      switch (_currentSort) {
-        case SortOption.numberAsc:
-          return idA.compareTo(idB);
-        case SortOption.numberDesc:
-          return idB.compareTo(idA);
-        case SortOption.az:
-          return titleA.compareTo(titleB);
-        case SortOption.za:
-          return titleB.compareTo(titleA);
-        case SortOption.key:
-          return (a['key'] ?? '').compareTo(b['key'] ?? '');
-      }
-    });
+        switch (_currentSort) {
+          case SortOption.numberAsc:
+            return idA.compareTo(idB);
+          case SortOption.numberDesc:
+            return idB.compareTo(idA);
+          case SortOption.az:
+            return titleA.compareTo(titleB);
+          case SortOption.za:
+            return titleB.compareTo(titleA);
+          case SortOption.key:
+            return (a['key'] ?? '').compareTo(b['key'] ?? '');
+        }
+      });
+    } else {
+      // Saved Tab: Retain user's custom manual drag order from bookmarkedIds
+      final songMap = {for (var song in songs) song['id'] ?? '': song};
+      displayedSongs = bookmarkedIds
+          .map((id) => songMap[id])
+          .whereType<Map<String, String>>()
+          .toList();
+    }
 
     return Scaffold(
       appBar: AppBar(
@@ -516,10 +530,11 @@ class _MainLayoutState extends State<MainLayout> {
               ],
             ),
           ),
-          IconButton(
-            icon: const Icon(Icons.sort, color: Colors.white, size: 20),
-            onPressed: _showSortPanel,
-          ),
+          if (_currentIndex == 0)
+            IconButton(
+              icon: const Icon(Icons.sort, color: Colors.white, size: 20),
+              onPressed: _showSortPanel,
+            ),
           const SizedBox(width: 4), 
         ],
       ),
@@ -577,30 +592,75 @@ class _MainLayoutState extends State<MainLayout> {
                             style: const TextStyle(color: Colors.white54),
                           ),
                         )
-                      : Scrollbar(
-                          controller: _listScrollController,
-                          thumbVisibility: true, // Always show the scroll track indicator line
-                          interactive: true,    // Enables direct drag interaction on Android touchscreens
-                          trackVisibility: false,
-                          child: ListView.builder(
-                            controller: _listScrollController,
-                            padding: const EdgeInsets.symmetric(vertical: 4),
-                            itemCount: displayedSongs.length,
-                            itemBuilder: (context, index) {
-                              final song = displayedSongs[index];
-                              final String songId = song['id'] ?? '';
-                              final bool isSaved = bookmarkedIds.contains(songId);
+                      : _currentIndex == 0
+                          ? Scrollbar(
+                              controller: _listScrollController,
+                              thumbVisibility: true, // Always show the scroll track indicator line
+                              interactive: true,    // Enables direct drag interaction on Android touchscreens
+                              trackVisibility: false,
+                              child: ListView.builder(
+                                controller: _listScrollController,
+                                padding: const EdgeInsets.symmetric(vertical: 4),
+                                itemCount: displayedSongs.length,
+                                itemBuilder: (context, index) {
+                                  final song = displayedSongs[index];
+                                  final String songId = song['id'] ?? '';
+                                  final bool isSaved = bookmarkedIds.contains(songId);
 
-                              return SongTile(
-                                song: song,
-                                isSaved: isSaved,
-                                isGlobalEnglish: isGlobalEnglish,
-                                onToggleBookmark: () => toggleBookmark(songId),
-                                onTap: () => _navigateToLyrics(song, songId, isSaved),
-                              );
-                            },
-                          ),
-                        ),
+                                  return SongTile(
+                                    key: ValueKey(songId),
+                                    index: index,
+                                    song: song,
+                                    isSaved: isSaved,
+                                    isGlobalEnglish: isGlobalEnglish,
+                                    isReorderable: false,
+                                    onToggleBookmark: () => toggleBookmark(songId),
+                                    onTap: () => _navigateToLyrics(song, songId, isSaved),
+                                  );
+                                },
+                              ),
+                            )
+                          : ReorderableListView.builder(
+                              proxyDecorator: (Widget child, int index, Animation<double> animation) {
+                                return child; // Keeps the dragged tile appearance identical to the rest
+                              },
+                              buildDefaultDragHandles: false,
+                              padding: const EdgeInsets.symmetric(vertical: 4),
+                              itemCount: displayedSongs.length,
+                              onReorderItem: _onReorderBookmarks,
+                              itemBuilder: (context, index) {
+                                final song = displayedSongs[index];
+                                final String songId = song['id'] ?? '';
+
+                                return Dismissible(
+                                  key: ValueKey("saved_$songId"),
+                                  direction: DismissDirection.endToStart,
+                                  background: Container(
+                                    alignment: Alignment.centerRight,
+                                    padding: const EdgeInsets.only(right: 20.0),
+                                    margin: const EdgeInsets.symmetric(horizontal: 4, vertical: 4),
+                                    decoration: BoxDecoration(
+                                      color: Colors.redAccent.withValues(alpha: 0.8),
+                                      borderRadius: BorderRadius.circular(12),
+                                    ),
+                                    child: const Icon(Icons.delete_outline, color: Colors.white, size: 26),
+                                  ),
+                                  onDismissed: (direction) {
+                                    toggleBookmark(songId);
+                                  },
+                                  child: SongTile(
+                                    key: ValueKey(songId),
+                                    index: index,
+                                    song: song,
+                                    isSaved: true,
+                                    isGlobalEnglish: isGlobalEnglish,
+                                    isReorderable: true,
+                                    onToggleBookmark: () => toggleBookmark(songId),
+                                    onTap: () => _navigateToLyrics(song, songId, true),
+                                  ),
+                                );
+                              },
+                            ),
             ),
           ],
         ),
@@ -632,6 +692,8 @@ class SongTile extends StatelessWidget {
   final Map<String, String> song;
   final bool isSaved;
   final bool isGlobalEnglish;
+  final bool isReorderable;
+  final int index;
   final VoidCallback onToggleBookmark;
   final VoidCallback onTap;
 
@@ -640,6 +702,8 @@ class SongTile extends StatelessWidget {
     required this.song,
     required this.isSaved,
     required this.isGlobalEnglish,
+    this.isReorderable = false,
+    this.index = 0,
     required this.onToggleBookmark,
     required this.onTap,
   });
@@ -687,16 +751,25 @@ class SongTile extends StatelessWidget {
             child: Row(
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
-                IconButton(
-                  padding: EdgeInsets.zero,
-                  constraints: const BoxConstraints(),
-                  icon: Icon(
-                    isSaved ? Icons.favorite : Icons.favorite_border,
-                    color: isSaved ? AppColors.primary : Colors.white30,
-                    size: 22,
+                if (isReorderable)
+                  ReorderableDragStartListener(
+                    index: index,
+                    child: const Padding(
+                      padding: EdgeInsets.symmetric(horizontal: 6.0, vertical: 4.0),
+                      child: Icon(Icons.drag_handle, color: Colors.white54, size: 22),
+                    ),
+                  )
+                else
+                  IconButton(
+                    padding: EdgeInsets.zero,
+                    constraints: const BoxConstraints(),
+                    icon: Icon(
+                      isSaved ? Icons.favorite : Icons.favorite_border,
+                      color: isSaved ? AppColors.primary : Colors.white30,
+                      size: 22,
+                    ),
+                    onPressed: onToggleBookmark,
                   ),
-                  onPressed: onToggleBookmark,
-                ),
                 const SizedBox(width: 6),
                 Expanded(
                   child: Text(
