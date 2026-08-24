@@ -2076,7 +2076,7 @@ lyrics_pl:
 ---
 
 id: 115
-title_en: Alas And Did My Saviour Bleed
+title_en: At The Cross
 title_pl: Niegdyś W Grzechach Jam Żył
 key: E
 lyrics_en:
@@ -8279,7 +8279,7 @@ lyrics_pl:
 ---
 
 id: 476
-title_en: With All My Heart
+title_en: I Just Want To Thank You Lord
 title_pl: Całym Sercem
 key: E
 lyrics_en:
