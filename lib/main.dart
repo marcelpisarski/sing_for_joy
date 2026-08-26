@@ -973,6 +973,7 @@ class _SongListDetailPageState extends State<SongListDetailPage> {
     final box = context.findRenderObject() as RenderBox?;
     Share.share(
       textToShare,
+      subject: widget.songList.name,
       sharePositionOrigin: box != null ? (box.localToGlobal(Offset.zero) & box.size) : null,
     );
   }
