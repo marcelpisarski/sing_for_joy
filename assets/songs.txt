@@ -464,7 +464,7 @@ Chor.: We shall rise, Hallelujah! We shall rise! Amen! We shall rise! Hallelujah
 
 2: In the resurrection morning, what a meeting it will be, we shall rise, Hallelujah! We shall rise! When our fathers and our mothers, and our loved ones we shall see, we shall rise, Hallelujah! We shall rise!
 
-3: In the resurrection morning, blessèd thought it is to me, we shall rise, Hallelujah! We shall rise! I shall see my blessèd Savior, who so freely died for me, we shall rise, Hallelujah! We shall rise!
+3: In the resurrection morning, blessèd thought it is to me, we shall rise, Hallelujah! We shall rise! I shall see my blessed Savior, who so freely died for me, we shall rise, Hallelujah! We shall rise!
 
 4: In the resurrection morning, we shall meet Him in the air, we shall rise, Hallelujah! We shall rise! And be carried up to glory, to our home so bright and fair, we shall rise, Hallelujah! We shall rise!
 lyrics_pl:
@@ -8962,11 +8962,19 @@ Most: Aby każdy dzień mojego życia znaczył coś w oczach Twych, Dla Twej chw
 ---
 
 id: 515
-title_en: Joy From God
+title_en: Joy In God
 title_pl: Radość W Bogu
 key: F
 lyrics_en:
-(No English lyrics given in text)
+1: Joy in God is such a mighty power. It gives me the strength, o' to overcome. God’s own Word revealed to me this secret. Now all grief and sorrow have an end.
+
+Chor.: My Lord – all my gladness. My Lord – all my power. He is all my hope and, my everything. God’s Word has revealed the, all merciful Savior, And all of His nature I declare today.
+
+2: Now I sing because I know my past life. Here and now I long, just to do His will. Where the Spirit of the Lord is, freedom. In His Holy Spirit I will live.
+
+3: Now I sing because my God’s my strong Rock. I can always place my whole trust in Him. Even in the hardest times of testing, may great joy remain within my heart.
+
+4: Now I sing and never try to hide it. Oh, what grace my Lord, has now given me! So with thanks I’ll gladly sing and praise him. He has filled my heart with joyful song.
 lyrics_pl:
 1: Radość w Bogu to ogromna siła. Ona daje mi do zwycięstwa moc. Słowo sekret ten mi objawiło. Smutku i rozpaczy nadszedł kres.
 
@@ -9450,7 +9458,7 @@ key: G
 lyrics_en:
 1: God will not reject your prayer, praying makes you stronger. I have never seen the righteous forsaken, begging for bread and left to suffer.
 
-Chor.: Have patience, just wait and see what God will do. When you lift up your hands and surrender, God will pull you through. Oh worship, simply worship; if you are crying, worship; in your trials, worship; if you are hurting, worship; nothing matters, worship, He will hear your praise. God goes before you saying "Let there be," He's healing your wounds and setting you free. He's sending His angels fighting from all sides, He's leading the way. Yes, He is the guide. Trust in Him, He will never fail, He'll walk with you along life's rugged trail. Just lift up your hands, this is your victory day, and give Him the praise. Worship the Lord, worship the Lord, worship the Lord, worship the Lord, worship the Lord, worship the Lord, worship the Lord, worship the Lord, worship the Lord, worship the Lord!
+Chor.: Have patience, just wait and see what God will do. When you lift up your hands and surrender, God will pull you through. Oh worship, simply worship; if you are crying, worship; in your trials, worship; if you are hurting, worship; nothing matters, worship, He will hear your praise. God goes before you saying "Let there be," He's healing your wounds and setting you free. He's sending His angels fighting from all sides, He's leading the way. Yes, He is the guide. Trust in Him, He will never fail, He'll walk with you along life's rugged trail. Just lift up your hands, this is your victory day, and give Him the praise. Worship the Lord, worship the Lord, worship the Lord, worship the Lord, worship the Lord, worship the Lord, worship the Lord, worship the Lord!
 
 2: It is important to understand when God is speaking; sometimes He may seem to be silent, but that is when He is working.
 lyrics_pl:
@@ -10077,4 +10085,33 @@ Ref.: Będę wykrzykiwać na wyżynach Chwały, krzyki będą tam, radość będ
 3: Teraz jest czas przygotowań, teraz jest czas przygotowań. Dziś więc dokonaj rezerwacji, będę wykrzykiwać w Niebie tam.
 
 ---
+
+id: 569
+title_en: A Burning Desire In Me
+title_pl: Palące Pragnienie We Mnie
+key: d-minor
+lyrics_en:
+1: A burning desire in me to be more like Thee is growing stronger everyday; I'm burdened in my soul, perfection is my goal, to walk with You in perfect harmony.
+
+Chor.: I want to go where You want me to, send me Lord to do the things You do, my Lord, I want to go. I want to feel Your presence near, perfect love casting out all fears, my Lord, I want to feel.
+
+2: You've taken away my shame, given me a part of Your name, set Your Holy Seal upon me. I'm thankful for Your grace, you've made me a winner in life's race; now I give myself to You unreservedly.
+
+3: I'm casting my reasoning down, listening for that certain sound, that still small voice deep in my soul; To lead me where I should go, perfect will to daily know that unto You my works be fulfilled.
+
+4: Let Your anointing flow, keeping my light aglow amidst this world of darkness, sin and shame; Keep pouring Your latter rain, faith to use Your power again that I may return to You from whence I came.
+
+Chor. 2: I want to go to that place prepared for me, oh, that mansion, my theophany, my Lord, I want to go. I want to feel greater realities, perfect love throughout eternity, my Lord, I want to feel.
+lyrics_pl:
+1: Palące pragnienie we mnie, by odzwierciedlać Ciebie, coraz mocniejsze staje się. To w duszy mej jest cel – wyrażać Życie Twe, ze Słowem Twym żyć zawsze w harmonii.
+
+Ref.: Prowadź mnie tam, gdzie Ty, Panie, chcesz widzieć mnie. Czyń przeze mnie dzieła Twe. Prowadź mnie sam w miłości Twej, co usuwa wszelki strach, w obecności Twej, Panie. Tak, prowadź mnie.
+
+2: Zabrałeś mój wstyd i grzech, a dałeś mi Imię Swe. Dałeś Swoją Pieczęć na mnie. Dziękuję za łaskę Twą, co czyni mnie zwycięzcą. Teraz całe życie me jest w rękach Twych.
+
+3: Odrzucam swe myśli precz. Chcę słyszeć jeden dźwięk, ten cichy Głos w duszy mej. On zaprowadzi mnie na miejsca, w których chcesz, by całkiem wola Twa wypełniała się.
+
+4: Namaszczaj, Panie, mnie. Niech ma lampa świeci się, niech ktoś zobaczy Światło Twe. Gdy Słowem karmię się, wzrasta poziom wiary mej. Powracam tam, skąd pochodzenie me.
+
+Ref. 2: Prowadź mnie tam, gdzie mieszkanie wieczne mam – nowe ciało, mój Panie. Prowadź mnie sam. Odczuwać chcę rzeczywistość w sercu mym, miłość z wieczności, Panie. Tak, prowadź mnie.
 
