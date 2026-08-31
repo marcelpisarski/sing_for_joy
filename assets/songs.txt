@@ -1570,11 +1570,15 @@ lyrics_pl:
 ---
 
 id: 85
-title_en: Bless Us Our Heavenly Father
+title_en: Bless All Of Us
 title_pl: Błogosław Nas
 key: F
 lyrics_en:
-(No English lyrics given in text)
+1: [:Bless all of us:], Heavenly Father, bless all of us.
+
+2: [:Descend to us:], O Holy Spirit, descend to us.
+
+3: [:Touch all of us:], Jehovah Rapha, touch all of us.
 lyrics_pl:
 1: [:Błogosław nas:], Ojcze Niebieski, błogosław nas.
 
@@ -6359,7 +6363,7 @@ lyrics_pl:
 
 Ref.: Wiarą, wiarą, żyję wiarą w obietnice mego Zbawcy. Wiarą, wiarą, chcę wiarą w obietnice Boże żyć.
 
-2: Wiarą w obietnice Boże lekko żyć, podczas burz, nawałnic o wieczności śnić. W chwili zwątpień, pokus błoga pewność ta, Słowo Boże nam zwycięstwo da.
+2: Wiarą w obietnice Boże zawsze żyć, podczas burz, nawałnic o wieczności śnić. W chwili zwątpień, pokus błoga pewność ta, Słowo Boże nam zwycięstwo da.
 
 3: Wiarą w obietnice Boże będę żyć, z Nim złączony mogę się nad ziemię wzbić. Miłość Jego mnie posila z dnia na dzień, śmiało idę z Nim przez nocy cień.
 
@@ -7854,7 +7858,9 @@ title_en: Look At The Birds Of The Air
 title_pl: Spójrz Na Ptaki Niebieskie
 key: C
 lyrics_en:
-(No English lyrics given in text)
+1: Look at birds of the heavens, fed by God's own hand. Are you not far more precious than they! Do not worry for life, what you'll eat, what you'll drink. For your father knows best what you need.
+
+2: Seek first now the kingdom that Jesus is in. And He'll give you your payment for your toil. Do not worry for life, what you'll eat, what you'll drink. For your father knows best what you need.
 lyrics_pl:
 1: Spójrz na ptaki niebieskie, które karmi nasz Bóg. Czyż nie jesteś czymś więcej od nich tu? Nie troszcz się o swe życie, co jeść będziesz, co pić. Wie twój Ojciec najlepiej, co dać ci.
 
@@ -7892,7 +7898,7 @@ Chor.: You are God alone, from before time began. You are on Your throne, You ar
 
 2: You're the only God whose power none can contend. You're the only God whose name and praise will never end. You're the only God who's worthy of anything we can give. You are God, that's just the way it is.
 
-Bridge: [:You're unchangeable, unshakable, unstoppable, that's who You are:]
+Bridge: [:You're unchangeable, unshakable, unstoppable, that's who You are:].
 lyrics_pl:
 (W tekście brak polskiego tekstu)
 
@@ -7969,7 +7975,7 @@ Chor.: In Jesus' name, we press on, in Jesus' name, we press on. Dear Lord, with
 lyrics_pl:
 1: Gdy w dolinie jest mrok, droga wciąż wiedzie wzwyż, ciało pada już z sił, czujesz, jak tracisz moc.
 
-Ref.: [:W imieniu Twym, chodzę znów:] Gdy widzę, co Pan przygotował nam, nabieram sił, by iść znów.
+Ref.: [:W imieniu Twym, chodzę znów:]. Gdy widzę, co Pan przygotował nam, nabieram sił, by iść znów.
 
 2: Nie wiesz, jak zrobić krok, w życiu twoim wciąż złość, kiedy brak już ci sił, dajesz wszystko, co masz.
 
@@ -8076,11 +8082,11 @@ Chor.: Our God is tremendous, His strength never faileth, He'll go through the f
 
 2: When you're in trouble - Jehovah Nissi, the Great Enforcer, God Almighty, will fight your battles. Oh yes, He will stand for you. Your victory will come, not the way you think it should, but my great Jehovah just loves a paradox. Just stay in your position and watch the miraculous come into action.
 lyrics_pl:
-1. Gdym jest w potrzebie, wołam do Pana, On mnie słyszy i pomaga. Wiernym Bogiem On jest, nie zapomni dzieci Swych. Mój Towarzysz, Przyjaciel. Jedyny Bóg, nie ma większego. Cudowny Zbawiciel, Jezus, z Judy Lew.
+1: Gdym jest w potrzebie, wołam do Pana, On mnie słyszy i pomaga. Wiernym Bogiem On jest, nie zapomni dzieci Swych. Mój Towarzysz, Przyjaciel. Jedyny Bóg, nie ma większego. Cudowny Zbawiciel, Jezus, z Judy Lew.
 
 Ref.: Mój Bóg jest potężny, Jego siła nie słabnie. Przejdzie przez ogień, by ocalić grzesznika. On jest wszechmogący. Posyła aniołów, by mnie prowadzili. Nie ma burzy tak wielkiej, by jej nie uciszył. Bóg objawiony jest w Tobie i we mnie, z chwały Swej przyszedł, zwycięstwo nam daje. To miłosna historia.
 
-2. Gdy masz zmartwienia, Jehowa Nissi, wielki Twórca, Bóg wszechmogący, W boju twym walczy, o tak! Bóg przed tobą jest! Zwycięstwo nadejdzie nie jak ty tego chcesz, bo Wielki Bóg Jahwe - Mistrzem paradoksów jest. Stój na swej pozycji, obserwuj jak cuda wkraczają do akcji.
+2: Gdy masz zmartwienia, Jehowa Nissi, wielki Twórca, Bóg wszechmogący, W boju twym walczy, o tak! Bóg przed tobą jest! Zwycięstwo nadejdzie nie jak ty tego chcesz, bo Wielki Bóg Jahwe - Mistrzem paradoksów jest. Stój na swej pozycji, obserwuj jak cuda wkraczają do akcji.
 
 ---
 
@@ -8102,6 +8108,8 @@ lyrics_pl:
 Ref.: Mogę modlić się, aż runie każdy mur, aż uzdrowienie zstąpi w dół, to właśnie czynić chcę. Mogę modlić się w komorze cichej mej, wzywając Imię Twe, to właśnie czynić chcę. Mogę modlić się.
 
 2: Jeszcze wielu moich bliskich na bezdrożach błąka się. Chciałbym jakoś do nich dotrzeć, lecz ich serca twarde są. Co, Panie, czynić mam, by wrócili na Twój szlak? Bo bez Ciebie oni zginą. Włóż we mnie Słowo Swe.
+
+3: Pan odpowie zawsze, gdy wołasz Go. Czy modlisz się?
 
 ---
 
@@ -8354,30 +8362,28 @@ lyrics_pl:
 
 2: Życie to nie mój skarb. Życie to nie mój skarb. Na własność On mnie tylko ma. Życie to nie mój skarb.
 
-Ref.: [: To miłość Twa nabyła mnie, najwyższa z cen, by zniszczyć śmierć. Wolności dziś ja służyć chcę. Mój Jezus z grobu wzbudził mnie :].
+Ref.: [:To miłość Twa nabyła mnie, najwyższa z cen, by zniszczyć śmierć. Wolności dziś ja służyć chcę. Mój Jezus z grobu wzbudził mnie:].
 
 ---
 
 id: 480
-title_en: Deep Calleth Unto Deep
+title_en: Your Deep Keeps Calling Me
 title_pl: Głębina Przyzywa Głębinę
-key: A
+key: C
 lyrics_en:
-1: I'm dismayed by God's great simplicity when He hides away His Majesty. What is foolish for the wise is so precious in God's eyes, He has never changed this way, let us follow and obey.
+1: I’m dismayed by God’s great simplicity when He hides away His Majesty. What is foolish for the wise is so precious in God’s eyes. He has never changed this way, let us follow and obey.
 
-Chor.: Your deep keeps calling me, in the sound of your waterfalls I find relief, there is something deep within, who can stand in between? He won't leave me nor forsake me, 'cause I am His own, He has loved me with love eternal.
+Chor.: Your deep keeps calling me! In the sound of Your waterfalls I find relief. There is something deep within. Who can stand in between? He won’t leave me, nor forsake me cause I am His own. He has loved me with love eternal.
 
-2: Now the fullness of the Word inspires me, it reveals my true identity. God Almighty stooped so low, 'cause He wanted us to know the attraction for today which will take His Wife away.
+2: Now the fullness of the Word inspires me. It reveals my true identity. God Almighty stooped so low, cause He wanted us to know the attraction for today which will take His Wife away.
 
-3: Let the vision lead me to a higher place, where I see You with an open face. Though the world falls apart, there is gladness in my heart, for there's nothing here below that can stop my raptured soul.
+3: Let the vision lead me to a higher place, where I see You with an open face. Though the world falls apart, there is gladness in my heart. For there’s nothing here below that can stop my raptured soul.
 lyrics_pl:
-1: Ta prostota, która tak urzeka mnie - w niej nasz Pan zawsze ukrywa się. Co u ludzi jest wzgardzone, to u Boga wywyższone, tak wspaniała droga ta, którą wskazał nam nasz Pan.
+1: Ta prostota, która tak urzekła mnie – w niej nasz Pan zawsze ukrywa się. Co u ludzi jest wzgardzone, to u Boga wywyższone. Tak wspaniała droga ta, którą wskazał nam nasz Pan!
 
-Ref.: Głębina przyzywa głębinę, odgłos Twoich wodospadów przenika mnie. Coś pulsuje w sercu mym, nie zatrzyma tego nikt. Nic nie może mnie odłączyć od miłości Twej, nic nie może nas rozdzielić.
+Ref.: Głębina przyzywa głębinę! Odgłos Twoich wodospadów przenika mnie. Coś pulsuje w sercu mym. Nie zatrzyma tego nikt. Nic nie może mnie odłączyć od miłości Twej. Nic nie może nas rozdzielić.
 
-2: Już wiem, co atrakcją na tej górze jest. Widzę, jak wypełnia każde Słowo się. Wielki Bóg zszedł tak nisko, to przyciąga mnie tak blisko, do rzeczywistości Swej On podnosi dzisiaj mnie.
-
-3: Wizja Słowa niechaj ciągle wiedzie mnie, która sięga ponad myśli me. Znak przez ludzi przeoczony, dla mnie dzisiaj objawiony. Rozradować w Prawdzie się - tego dusza moja chce.
+2: Już wiem, co atrakcją na tej górze jest. Widzę, jak wypełnia każde Słowo się. Wielki Bóg zszedł tak nisko – to przyciąga mnie tak blisko. Do rzeczywistości Swej On podnosi dzisiaj mnie.
 
 ---
 
@@ -8666,15 +8672,15 @@ title_en: Shalom Shalom
 title_pl: Szalom Szalom
 key: E
 lyrics_en:
-1: Arise and shine for Thy light has come. And the glory of the Lord has risen upon thee, risen on thee.
-
 Chor.: Shalom, shalom, peace and good morning, He is on the throne. Shalom, shalom, we are almost home.
+
+1: Arise and shine for Thy light has come. And the glory of the Lord has risen upon thee, risen on thee.
 
 2: The darkness has come, gross darkness upon the people. But the glory of the Lord has risen upon thee, has risen on thee.
 lyrics_pl:
-1: Powstań i świeć, gdyż zjawiła się twa Światłość. A Chwała twego Pana wzeszła nad tobą, jasno świeci wciąż.
+Ref.: "Szalom, Szalom" - w nowym poranku wita nas On. Szalom, Szalom! Już blisko jest nasz Dom. 
 
-Ref.: "Szalom, Szalom" - w nowym poranku wita nas On. Szalom, Szalom! Już blisko jest nasz Dom. Shalom, shalom, peace and good morning, He is on the throne. Shalom, shalom, we are almost home.
+1: Powstań i świeć, gdyż zjawiła się twa Światłość. A Chwała twego Pana wzeszła nad tobą, jasno świeci wciąż.v
 
 2: Ciemność i mrok ogarniają dziś narody. Lecz Chwała twego Pana wzeszła nad tobą, jasno świeci wciąż.
 
@@ -8886,7 +8892,7 @@ key: F
 lyrics_en:
 1: [:We are marching over to Jerusalem:] [:Jerusalem, Jerusalem:].
 lyrics_pl:
-1: [:My kroczymy w nowe Jeruzalem :] [:Jeruzalem, Jeruzalem:].
+1: [:My kroczymy w nowe Jeruzalem:] [:Jeruzalem, Jeruzalem:].
 
 ---
 
@@ -9010,13 +9016,13 @@ title_en: The Seven Seals Are Open
 title_pl: Pan Jezus Nam Dziś Otwarł 
 key: d-minor
 lyrics_en:
-1: The Seven Seals are open, by our Lord now broken. His Voice had spoke in our day, to rapture us away. If you hear this on your way, rejoice and be glad! It was the revelation of the Son of Man. It was Him, we are sure of that.
+1: The Seven Seals are open, by our Lord now broken. His Voice had spoke in our day, to rapture us away. If you hear this on your journey, rejoice and be glad! It was the revelation of the Son of Man. It was Him, we are sure of that.
 
-Chor.: Praise the Lord Jesus Christ! He revealed His Face unto us. He's The One by who'm we're justified. It was the revelation of the Son of Man. It was Him, we are sure of that.
+Chor.: Praise the Lord, o' Jesus Christ! He revealed His Face unto us. He's The One by who'm we're justified. It was the revelation of the Son of Man. It was Him, we are sure of that.
 
-2: The elected eagles rise, as was promised for their time. They are soaring in the unknown, spread their wings and fly on. The Spoken Word calmed the storm in Colorado, We know. It was the revelation of the Son of Man, it was Him we are sure of that!
+2: The elected eagles rise, as was promised for their time. They are soaring in the unknown, spread their wings and fly on. The Spoken Word had calmed, the storm in Colorado, We know. It was the revelation of the Son of Man, it was Him we are sure of that!
 
-3: We received clear understanding, what took place is just outstanding. The seven angels came down, pouring wisdom into our hearts. Though this world is falling apart, it's so clear in our hearts. It was the revelation of the Son of Man. It was Him, we are sure of that.
+3: We received clear understanding, it was just outstanding. The seven angels came down, poured wisdom into our hearts. Though this world is falling apart, it's so clear in our hearts. It was the revelation of the Son of Man. It was Him, we are sure of that.
 lyrics_pl:
 1: Pan Jezus nam dziś otwarł Siedem Pieczęci. Przemówił Swoim głosem, byśmy byli wzięci. Niech każdy jest radosny, słysząc o tych sprawach. Było to objawienie Syna Człowieczego. Wiem, że to był On sam.
 
@@ -9060,7 +9066,7 @@ lyrics_en:
 lyrics_pl:
 1: Na początku było Słowo, a tym Słowem jest nasz Pan. Z Nim wszystko możliwe jest. Wołaj, o co chcesz. Dziś w sercu twym się skrywa, tak blisko ciebie jest. Niech ktoś zobaczy Je, jak wypełnia się.
 
-Ref.: [: Słowo ma moc, Słowo ma moc! Wypowiedz Je właściwie, bo Słowo ma moc :]
+Ref.: [:Słowo ma moc, Słowo ma moc! Wypowiedz Je właściwie, bo Słowo ma moc:]
 
 2: Te znaki dziś towarzyszą tym, którzy Panu wierzą. Z Nim wszystko możliwe jest. Wołaj, o co chcesz. Twoja wiara podoba się Bogu, który w tobie jest. On przez ciebie wyrażać chce Słowo na ten dzień.
 
@@ -9900,25 +9906,19 @@ Ref.: Jestem trofeum łaski Bożej, żywym świadectwem Boskiego uzdrowienia, ś
 ---
 
 id: 560
-title_en: Your Deep Keeps Calling Me
-title_pl: Głębina Przyzywa Głębinę
-key: C
+title_en: I Pledge Allegiance
+title_pl: Przyrzekam Wierność
+key: D
 lyrics_en:
-1: I’m dismayed by God’s great simplicity when He hides away His Majesty. What is foolish for the wise is so precious in God’s eyes. He has never changed this way, let us follow and obey.
+1: I have heard how Christians long ago were brought before a tyrants throne. They were told that he could spare their lives if they would renounce the name of Christ. But one by one they chose to die, The Son of God they would not deny. Like a great angelic choir sings I can almost hear their voices ring:
 
-Chor.: Your deep keeps calling me! In the sound of Your waterfalls I find relief. There is something deep within. Who can stand in between? He won’t leave me, nor forsake me cause I am His own. He has loved me with love eternal.
+Chor.: I pledge allegiance to the Lamb, with all my strength with all I am, I will seek to honour His command, I pledge allegiance to the Lamb.
 
-2: Now the fullness of the Word inspires me. It reveals my true identity. God Almighty stooped so low, cause He wanted us to know the attraction for today which will take His Wife away.
+2: Now the years have come and the year have gone but the cause of Jesus still goes on. Now our time has come to count the cost to reject this world and embrace the Cross. So one by one let us give our lives for the One who died to give us life. Till the trumpet sounds on that final day let us proudly stand and boldly say:
 
-Let the vision lead me to a higher place, where I see You with an open face. Though the world falls apart, there is gladness in my heart. For there’s nothing here below that can stop my raptured soul.
+Chor. 2: For the Lamb of God who bore my shame, who took my place and bore my pain. I will seek to honour His command, I pledge allegiance to the Lamb.
 lyrics_pl:
-1: Ta prostota, która tak urzekła mnie – w niej nasz Pan zawsze ukrywa się. Co u ludzi jest wzgardzone, to u Boga wywyższone. Tak wspaniała droga ta, którą wskazał nam nasz Pan!
-
-Ref.: Głębina przyzywa głębinę! Odgłos Twoich wodospadów przenika mnie. Coś pulsuje w sercu mym. Nie zatrzyma tego nikt. Nic nie może mnie odłączyć od miłości Twej. Nic nie może nas rozdzielić.
-
-2: Już wiem, co atrakcją na tej górze jest. Widzę, jak wypełnia każde Słowo się. Wielki Bóg zszedł tak nisko – to przyciąga mnie tak blisko. Do rzeczywistości Swej On podnosi dzisiaj mnie.
-
-3: Wizja Słowa niechaj ciągle wiedzie mnie, która sięga ponad myśli me. Znak przez ludzi przeoczony – dla nas dzisiaj objawiony. Rozradować w prawdzie się – tego dusza moja chce.
+(W tekście brak polskiego tekstu)
 
 ---
 
@@ -10019,6 +10019,10 @@ lyrics_en:
 lyrics_pl:
 1: Mój Panie, pragnę czynić wolę Twą, przy boku Twym przejść całą drogę mą, z miłości służyć jako żona Twa, spoczynek mieć na piersi El Shaddai.
 
+2: Chcę, Boże mój, dla Ciebie tylko żyć, w modlitwie trwać, uwielbiać Cię i czcić, podnosić wzrok do Góry stale tam i karmić się wciąż z piersi El Shaddai.
+
+3: Wiem Jezu, że gdy będę w wierze trwać, na Słowie Bożym zawsze mocno stać, wtedy do ciała, które w Górze mam, wykarmię się wprost z piersi El Shaddai.
+
 ---
 
 id: 566
@@ -10026,7 +10030,7 @@ title_en: I Will Meet Thee
 title_pl: Tam Spotkajmy Się
 key: C
 lyrics_en:
-1: [:I will meet Thee, I will meet Thee. Between the wings of the Cherubim I will meet Thee.:]
+1: [:I will meet Thee there, I will meet Thee there. Between the wings of the Cherubim I will meet Thee there.:]
 
 2: [:Commune with Me, commune with Me. Between the wings of the Cherubim commune with Me.:]
 
@@ -10115,3 +10119,251 @@ Ref.: Prowadź mnie tam, gdzie Ty, Panie, chcesz widzieć mnie. Czyń przeze mni
 
 Ref. 2: Prowadź mnie tam, gdzie mieszkanie wieczne mam – nowe ciało, mój Panie. Prowadź mnie sam. Odczuwać chcę rzeczywistość w sercu mym, miłość z wieczności, Panie. Tak, prowadź mnie.
 
+---
+
+id: 570
+title_en: From These Fleshly Chains
+title_pl: Z Więzienia Ciał
+key: C
+lyrics_en:
+1: Soon from these fleshly chains we'll go, His spoken Word will set us free. On Sunset Mountain long ago, He showed this Sign for all to see.
+
+Chor.: I worship You, I worship You, You came right down to set us free; These mortal chains I'll leave behind, transformed for all eternity.
+
+2: Within the cloud I see His face, just as the Prophet showed the way. Your Word was promised by Your grace: The Judge becomes my Shield today.
+
+3: Though all the earth before Him shakes, I see the open doors above; A cry within my soul awakes, to see the Judge's wig of love.
+lyrics_pl:
+1: Z więzienia ciał już wkrótce nas Słowem uwolni Chrystus Pan. By to oznajmić, dał nam Swój Znak: Nad górą Sunset zjawił się sam. 
+
+Ref.: Uwielbiam Cię, uwielbiam Cię, żeś zstąpił, Panie, uwolnić mnie. Kajdany ciała porzucę wnet i w jednej chwili przemienisz mnie.
+
+2: W Obłoku tym Jezusa Twarz – tak Go przedstawił Prorok nasz. Tę błogą pewność mam w Słowie Twym: Sędzia się stał Obrońcą mym!
+
+3: Choć cały świat przed Sędzią drży, ja widzę Nieba otwarte drzwi. Coś z mojej duszy wyrywa się, widząc Go tu w peruce tej.
+
+---
+
+id: 571
+title_en: Through The Blood
+title_pl: Poprzez Krew
+key: G
+lyrics_en:
+1: Through the blood, blood was once shed there for me, death was swallowed up in glorious vict'ry. In His meekness Christ my Saviour, stooped in love to rescue me, that with Him in endless glory I will be!
+
+Chor.: Through the blood, blood was shed there just for me. I can walk in harmony! More than conquerer through Christ Jesus, my Lord. This great grace I will proclaim, through the Message for this day. I am sinless, I am free through Jesus' Blood.
+lyrics_pl:
+1: Poprzez Krew, Krew przelaną tam za mnie, śmierć została pochłonięta w zwycięstwie – gdy w prostocie mój Zbawiciel zniżył się, by zbawić mnie, abym w Chwale mógł królować wiecznie z Nim.
+
+Ref.: Poprzez Krew, Krew przelaną tam za mnie, mogę kroczyć w każdy dzień, będąc więcej niż zwycięzcą w Nim. Łaskę tę chcę ogłaszać wokół mnie przez Poselstwo na ten dzień. Jestem wolny i bezgrzeszny poprzez Krew.
+
+---
+
+id: 572
+title_en: I Give Myself Away
+title_pl: Oddaję Tobie Się
+key: A
+lyrics_en:
+1: Here I am, here I stand, Lord, my life is in Your hands. Lord, I'm longing to see Your desires revealed in me.
+
+Chor.: [:I give myself away, I give myself away, so You can use me:].
+
+2: Take my heart, take my life, as a living sacrifice. All my dreams, all my plans, Lord I place them in Your hands.
+
+Bridge: [:My life is not my own, to You I belong. I give myself, I give myself to you:].
+lyrics_pl:
+1: Otom jest, stoję dziś, moje życie jest w rękach twych. Panie chcę widzieć jak, we mnie swój wypełniasz plan.
+
+Ref.: [:Oddaję tobie się, Oddaję tobie się, weż mnie i uzyj:].
+
+2: Serce weź i życie me, dziś w ofierze składam je. Do twych rąk złożyć chcę, wszystkie plany, marzenia me.
+
+Most: [:To życie nie jest me, jam Twą własnością jest. Oddaję się, oddaję Tobie się:].
+
+---
+
+id: 573
+title_en: Power In The Blood
+title_pl: Pragniesz-li Przekleństw
+key: G
+lyrics_en:
+1: Would you be free From the burden of sin? There's pow'r in the blood, pow'r in the blood; Would you o'er evil a victory win? There's wonderful pow'r in the blood.
+
+Chor.: There is power, power, wonder-working power in the blood of the Lamb; There is power, power wonder-working power. In the precious blood of the Lamb.
+
+2: Would you be free from your passion and pride? There's pow'r in the blood, pow'r in the blood; come for a cleansing to Calvary's tide; there's wonderful pow'r in the blood.
+
+3: Would you be whiter, much whiter than snow? There's pow'r in the blood, pow'r in the blood; Sin-stains are lost in its life-giving flow; There's wonderful pow'r in the blood.
+
+4: Would you do service for Jesus your King? There's pow'r in the blood, pow'r in the blood; Would you live daily His praises to sing? There's wonderful pow'r in the blood.
+lyrics_pl:
+1: Pragniesz-li przekleństw swych grzechów się zbyć? Jest moc w świętej Krwi, moc w świętej Krwi. O, pójdź, byś zawsze pokojem mógł żyć. Gdyż nas święta oczyszcza Krew.
+
+Ref.: O, jest moc, moc, o, przecudna moc w świętej Krwi, w świętej Krwi! O, jest moc, moc, zwycięstw pełna moc w świętej Zbawicielowej Krwi!
+
+2: Czy chciałbyś żądz swego ciała się zbyć? Jest moc w świętej Krwi, moc w świętej Krwi. Z Golgoty Krew wszelki brud może zmyć. Zwyciężysz przez moc świętej Krwi. 
+
+3: Czy chciałbyś bielszym być, bielszym niż śnieg? Jest moc w świętej Krwi, moc w świętej Krwi. Dla serc zbolałych najlepszy w niej lek. Oczyszczenie jest w świętej Krwi. 
+
+4: Czy chcesz z Chrystusem swe życie tu wieść? Jest moc w świętej Krwi, moc w świętej Krwi. Chcesz-li żyć Panu i chwałę Mu nieść? Codziennie masz siłę w tej Krwi.
+
+---
+
+id: 574
+title_en: Yet Not I But Through Christ In Me
+title_pl: Nie Ja Lecz Przez Chrystusa We Mnie
+key: C
+lyrics_en:
+1: What gift of grace is Jesus, my Redeemer. There is no more for Heaven now to give. He is my joy, my righteousness, and freedom. My steadfast love, my deep and boundless peace
+
+Chor.: To this I hold, my hope is only Jesus. For my life is wholly bound to His. Oh, how strange and divine, I can sing, "All is mine"! Yet not I, but through Christ in me.
+
+2: The night is dark, but I am not forsaken. For by my side, the Savior, He will stay. I labor on, in weakness and rejoicing. For in my need, His power is displayed.
+
+Chor. 2: To this I hold, my Shepherd will defend me. Through the deepest valley, He will lead. Oh, the night has been won, and I shall overcome. Yet not I, but through Christ in me.
+
+3: No fate I dread, I know I am forgiven. The future's sure, the price, it has been paid. For Jesus bled and suffered for my pardon, and He was raised to overthrow the grave.
+
+Chor. 3: To this I hold, my sin has been defeated. Jesus, now and ever is my plea. Oh, the chains are released, I can sing, "I am free". Yet not I, but through Christ in me.
+
+4: With every breath, I long to follow Jesus. For He has said that He will bring me home, and day by day, I know He will renew me. Until I stand with joy before the throne.
+
+Chor. 4: To this I hold, my hope is only Jesus. All the glory evermore to Him. When the race is complete, still my lips shall repeat. "Yet not I, but through Christ in me".
+lyrics_pl:
+(W tekście brak polskiego tekstu)
+
+---
+
+id: 575
+title_en: Born Born Born Again
+title_pl: Narodzony Narodzony Narodzony Na Nowo
+key: E
+lyrics_en:
+Chor.: Born, born, born again, thank God I’m born again! Born, born, born again, thank God I’m born again!
+
+1: Born, born, born again, thank God I’m born again! Born, born, born again, thank God I’m born again!
+lyrics_pl:
+(W tekście brak polskiego tekstu)
+
+---
+
+id: 576
+title_en: Build Your House In Us
+title_pl: Panie Buduj Nas
+key: B
+lyrics_en:
+1: "What kind of house will you build Him today?" the Prophet asked us in our day. Will God find rest within your soul? Will He find true faith at all?
+
+Chor.: Build Your house in us and guard each of our gates. May the pow'r that conquers every strife dwell within our hearts and lifes.
+
+2: Will He show His perfect beauty through the lives of those that serve Him, those who walk by faith and not by sight?
+lyrics_pl:
+1: „Jaki dom zbudujesz dzisiaj Mu?” – zapytał Prorok w naszym dniu. – „Czy Bóg odpocząć będzie mógł? I czy wiarę znajdzie tu? Czy pokaże Swoje piękno przez charakter Jego ludzi, którzy miłość wzajemną będą mieć?”
+
+Ref.: Panie, buduj nas i Ty sam strzeż naszych bram. Przezwyciężająca wszystko moc niech będzie pośród nas i w nas. Gdy w Imieniu Twym zeszliśmy się, obiecałeś, że będziesz przechadzał się. Przyjmij owoc naszych warg wielbiących Imię Twe.
+
+2: Jeśli nie zbuduje domu Pan, próżno się trudzą wznoszący go. Jeśli Pan nie strzeże miasta, to nadaremno czuwa stróż. Czego Pan nie może zrobić? On nie może zawieść, nie! Jego dzieło doskonałe jest!
+
+---
+
+id: 577
+title_en: Stay
+title_pl: Zostań
+key: F
+lyrics_en:
+1: I know what it's like to be in the presence of the Lord, and not know what time it is because time stood still. And bodies were healed. Families restored. Because we stayed here, in the presence of the Lord. No one had to say a word. Couldn't even make a sound. But I'd give up everything, for this treasure I've found. I never want it to end.
+
+2: So I say stay. I don't want You to go. Cause my heart is burning, in Your presence, Lord. Please, stay. I don't want You to go. 'Cause my heart is burning, in Your presence, Lord.
+
+Chor.: [:I want more. I want more. I want more. Jesus, I want more.:]
+
+2: So I say stay. I don't want You to go. Cause my heart is burning, in Your presence, Lord. Please, stay. Where else would I go? 'Cause my heart is burning. My heart is burning. My heart is burning, in Your presence, Lord.
+lyrics_pl:
+(W tekście brak polskiego tekstu)
+
+---
+
+id: 578
+title_en: More and More
+title_pl: Coraz Więcej
+key: B
+lyrics_en:
+1: [:More and more and more and more of Jesus:]. Less and less of me, less and less of me.
+lyrics_pl:
+(W tekście brak polskiego tekstu)
+
+---
+
+id: 579
+title_en: When Dark Clouds
+title_pl: Kiedy Chmury
+key: G
+lyrics_en:
+1: When dark clouds of fear are all around you, [:tell it to Jesus.:] When God’s love seems hidden from your view, tell it to Jesus right now!
+
+Chor.: [:Tell it to Jesus.:] He is your faithful Friend. When your heart is suddenly in fear, tell it to Jesus right now!
+
+2: When the foe would try to rule your heart, [:tell it to Jesus.:] When your strength begins to fall apart, tell it Jesus right now!
+
+3: When your heart is filled at times with sorrow, [:tell it to Jesus.:] Or with joy that brightens each tomorrow, tell it to Jesus right now!
+lyrics_pl:
+1: Kiedy chmury ciemne cię zatrwożą, [:Powiedz to Zbawcy.:] Gdy zasłonią tobie miłość Bożą, Wszystko to Zbawcy wnet mów!
+
+Ref.: [:Powiedz to Zbawcy,:] On przyjacielem jest twym. Kiedy serce nagle coś zatrwoży, Wszystko to Zbawcy wnet mów!
+
+2: Gdy twym sercem pragnie wróg zawładnąć, [:Powiedz to Zbawcy.:] Kiedy siły twoje zaczną słabnąć, Wszystko to Zbawcy wnet mów!
+
+3: Gdy w twym sercu czasem smutek gości, [:Powiedz to Zbawcy,:] Lub gdy znowu pełne jest radości, Wszystko to Zbawcy wnet mów!
+
+---
+
+id: 580
+title_en: I Saw The Fourth Man
+title_pl: Widziałem Męża
+key: e-minor
+lyrics_en:
+1: The moment now is come, there's nothing to be done. My accusers stand before me and there's no where left to run. And so it ends this way, there's nothing more to say. I will pay the price and give my life for the choice that I have made. Oh but suddenly, what is this I see? As I'm cast into the fire, there is One who stands by me.
+
+Ref.: I saw the fourth man between the flames and I. When there was no hope at all, He saved me just in time. Holding back the forces that pressed on every side. I am saved by the fourth man in the fire. I am saved by the fourth man in the fire.
+
+2: And now the test is passed, but it was not the last. For my accusers seek to find me weak and constantly attack. Searching to and fro, constantly they go. And in my desperate hour, seek to devour and strike the fatal blow. But I am not afraid, and they are much dismayed. For between us stands the Son of Man, and the standard He has raised!
+lyrics_pl:
+1: Ten moment nadszedł już. Bezradny stoję znów. Nie mam siły też dać odpór tym, którzy oskarżają mnie. Tu koniec drogi jest. Chcę zostać tak bez słów, a  za wybór mój poniosę trud i oddam życie swe. O, lecz widzę, że jest Ktoś tuż przy mnie. Przyszedł zaraz, gdy do ognia żaru wtrącany byłem ja.
+
+Ref.: Widziałem Męża. Był czwarty pośród nas. Siły zła pokonał On, na czas ocalił mnie. Między płomieniami tam Pan mój ciągle stał. [:Żyję, bo w ogniu był ten czwarty Mąż:].
+
+2: Już za mną próba ta; to tylko jedna z nich. Bo wrogowie znów uderzą, gdy w słabości będę ja. Za sobą widzę ich. Opuścić nie chcą mnie. Walczą skrycie, by wytracić, gdy już z sił opadnę swych. O, lecz jedno wiem: Bać nie muszę się. Widzę trwogę ich, bo rozdzielił nas Wszechmogący Boży Syn.
+
+---
+
+id: 581
+title_en: This Little Light Of Mine
+title_pl: To Moje Małe Światełko
+key: G
+lyrics_en:
+1: This little light of mine, I'm gonna let it shine. This little light of mine, I'm gonna let it shine. This little light of mine, I'm gonna let it shine, let it shine, let it shine, oh let it shine.
+
+2: Ev'rywhere I go, I'm gonna let it shine. Ev'rywhere I go, I'm gonna let it shine. Ev'rywhere I go, I'm gonna let it shine, let it shine, let it shine, oh let it shine.
+
+3: Jesus gave it to me, I'm gonna let it shine. Jesus gave it to me, I'm gonna let it shine. Jesus gave it to me, I'm gonna let it shine, let it shine, let it shine, oh let it shine.
+lyrics_pl:
+(W tekście brak polskiego tekstu)
+
+---
+
+id: 582
+title_en: I See The Bright Light Shine
+title_pl: Widzę Jasne Światło
+key: E
+lyrics_en:
+1: There's a light in the window. The table's spread in splendor. Someone's standing by the open door. I can see a crystal river I must be near forever. See, I've never been this homesick before.
+
+Chor.: I see the bright light shine. It's just about hometime. I can see my Father standing at the door. This world has been a wilderness. I'm ready for deliverance Lord, I've never been this homesick before.
+
+2: I can see the family gather. Sweet faces, all familiar. And no one's old or feeble anymore. And my lonesome heart is cryin'. Think I'll spread my wings for flyin'. See I've never felt this homesick before.
+lyrics_pl:
+1: Światło wewnątrz się świeci a stół w pełni zastawiony, Ktoś tam czeka u otwartych drzwi. Mogę widzieć rzekę Życia, muszę być już blisko. Panie, pragnę już wrócić w swój dom.
+
+Ref.: Widzę jasne światło, to światłość mego domu. To ojciec już stoi u drzwi. Ten świat jest wielką pustką, ja chcę się z niej uwolnić. Panie, pragnę już wrócić w swój dom.
+
+2: Mogę widzieć jak rodzina się razem zgromadziła, smutku i choroby nie ma tam. Moje serce się wyrywa, w lot rozkładam swoje skrzydła. Panie, pragnę już wrócić w swój dom.
