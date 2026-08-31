@@ -10164,17 +10164,17 @@ title_en: I Give Myself Away
 title_pl: Oddaję Tobie Się
 key: A
 lyrics_en:
-1: Here I am, here I stand, Lord, my life is in Your hands. Lord, I'm longing to see Your desires revealed in me.
-
 Chor.: [:I give myself away, I give myself away, so You can use me:].
+
+1: Here I am, here I stand, Lord, my life is in Your hands. Lord, I'm longing to see Your desires revealed in me.
 
 2: Take my heart, take my life, as a living sacrifice. All my dreams, all my plans, Lord I place them in Your hands.
 
 Bridge: [:My life is not my own, to You I belong. I give myself, I give myself to you:].
 lyrics_pl:
-1: Otom jest, stoję dziś, moje życie jest w rękach twych. Panie chcę widzieć jak, we mnie swój wypełniasz plan.
-
 Ref.: [:Oddaję tobie się, Oddaję tobie się, weż mnie i uzyj:].
+
+1: Otom jest, stoję dziś, moje życie jest w rękach twych. Panie chcę widzieć jak, we mnie swój wypełniasz plan.
 
 2: Serce weź i życie me, dziś w ofierze składam je. Do twych rąk złożyć chcę, wszystkie plany, marzenia me.
 
@@ -10252,11 +10252,11 @@ title_en: Build Your House In Us
 title_pl: Panie Buduj Nas
 key: B
 lyrics_en:
-1: "What kind of house will you build Him today?" the Prophet asked us in our day. Will God find rest within your soul? Will He find true faith at all?
+1: "What kind of house will you build Him today?" the Prophet asked us in our day. Will God find rest within your soul? Will He find true faith at all? Will He show His perfect beauty through the lives of those that serve Him, those who walk by faith and not by sight?
 
-Chor.: Build Your house in us and guard each of our gates. May the pow'r that conquers every strife dwell within our hearts and lifes.
+Chor.: Build Your house in us and guard each of our gates. May the pow'r that conquers every strife dwell within our hearts and lifes. We have gathered here in Jesus' Name. You have promised us to do the same. Come, consume our sacrifice, the fruits of our lips.
 
-2: Will He show His perfect beauty through the lives of those that serve Him, those who walk by faith and not by sight?
+2: Unless the Lord himself will build a house, the workers labour all in vain. Unless the Lord protects the gates, then the watchman stands in vain. There is one thing God will not do: He will never fail His own. All His works are perfect to behold.
 lyrics_pl:
 1: „Jaki dom zbudujesz dzisiaj Mu?” – zapytał Prorok w naszym dniu. – „Czy Bóg odpocząć będzie mógł? I czy wiarę znajdzie tu? Czy pokaże Swoje piękno przez charakter Jego ludzi, którzy miłość wzajemną będą mieć?”
 
